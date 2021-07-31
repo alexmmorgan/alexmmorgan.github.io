@@ -13,7 +13,7 @@ Education
 ======
 * December 2010	Bachelor of Science, Department of Earth and Planetary Sciences, University of California at Santa Cruz
 * November 2017	Doctor of Philosophy, Department of Environmental Sciences, University of Virginia
-** Dissertation: Sedimentology, hydrology, and climatic environment of alluvial fans on Earth and Mars, Advisor: Professor Alan D. Howard
+  * Dissertation: Sedimentology, hydrology, and climatic environment of alluvial fans on Earth and Mars, Advisor: Professor Alan D. Howard
 
 Professional Experience
 ======
@@ -44,35 +44,35 @@ Publications
 Research Grants
 ======
 * 2021: Reconstructing basaltic sediment transport on Mars using terrestrial analogues
-** NASA Solar Systems Workings Program
-** A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.A. Craddock (Co-I, Smithsonian). $394,465 total.
+  * NASA Solar Systems Workings Program
+  * A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.A. Craddock (Co-I, Smithsonian). $394,465 total.
 * 2021: Timing and spatial variability of post-Noachian fluvial erosion on Mars
-** NASA Mars Data Analysis Program
-** A.M. Morgan (Institutional PI), R.P. Irwin III (PI, Smithsonian). $250,837 total.
+  * NASA Mars Data Analysis Program
+  * A.M. Morgan (Institutional PI), R.P. Irwin III (PI, Smithsonian). $250,837 total.
 * 2021: Do delta deposits around the martian crustal dichotomy record an ancient northern ocean?
-** NASA Mars Data Analysis Program
-** A.M. Morgan (Institutional PI), M.C. Palucis (PI, Dartmouth), Rivera-Hernandez (Co-I, Georgia Tech). $277,593 total.
+  * NASA Mars Data Analysis Program
+  * A.M. Morgan (Institutional PI), M.C. Palucis (PI, Dartmouth), Rivera-Hernandez (Co-I, Georgia Tech). $277,593 total.
 * 2020: Linking alluvial fan morphology and sedimentology with formation processes via Martian analog studies in the Atacama Desert, Chile
-** NASA Solar Systems Workings Program
-** PI: A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.M.E. Williams (Co-I, PSI), R.A. Craddock (Co-I, Smithsonian). $263,661 total.
+  * NASA Solar Systems Workings Program
+  * PI: A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.M.E. Williams (Co-I, PSI), R.A. Craddock (Co-I, Smithsonian). $263,661 total.
 * 2019: Reconstructing basaltic sediment transport on Mars using a Hawaiian Analogue
-** Smithsonian Institution Scholarly Studies Program
-** A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian). $37,790 total.
+  * Smithsonian Institution Scholarly Studies Program
+  * A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian). $37,790 total.
 * 2016: High-Resolution Mapping and Geomorphological Studies of Martian Valley Networks
-** NASA Mars Data Analysis Program
-** A.M Morgan (Post-doc; wrote and executed proposal), R.A. Craddock (PI, Smithsonian). $302,976 total.
+  * NASA Mars Data Analysis Program
+  * A.M Morgan (Post-doc; wrote and executed proposal), R.A. Craddock (PI, Smithsonian). $302,976 total.
 * 2015: Investigating alluvial fan formation processes and the implications for Mars’ climate
-** Smithsonian Institution Earth and Space Sciences Predoctoral Fellowship
-** A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian). $70,400 total
+  * Smithsonian Institution Earth and Space Sciences Predoctoral Fellowship
+  * A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian). $70,400 total
 * 2015: Characterizing the Sedimentology and Hydrology of Death Valley Alluvial Fans through a Field Analogue and Landform Evolution Modeling
-** University of Virginia Department of Environmental Sciences Moore Research Award
-** $5,000 total.
+  * University of Virginia Department of Environmental Sciences Moore Research Award
+  * $5,000 total.
 * 2015: "Modeling alluvial fan avulsion"
-** Geologic Society of America Graduate Student Research Grant
-** $1,176 total
+  * Geologic Society of America Graduate Student Research Grant
+  * $1,176 total
 * 2014: Investigating Flow Processes and Sedimentology in the Death Valley Region
-** University of Virginia Department of Environmental Sciences Exploratory Research Award
-** $1,500 total
+  * University of Virginia Department of Environmental Sciences Exploratory Research Award
+  * $1,500 total
 
 First-Authored Conference Abstracts
 ======
@@ -112,13 +112,13 @@ Invited Talks
 Teaching and Mentoring
 ======
 * Courses taught:
-** Fundamentals of Geology Laboratory (Fall 2011, Spring 2012, Fall 2013, Fall 2014)
-** Planetary Geology/Astronomy Laboratory (Spring 2013, Spring 2014, Spring 2015)
+  * Fundamentals of Geology Laboratory (Fall 2011, Spring 2012, Fall 2013, Fall 2014)
+  * Planetary Geology/Astronomy Laboratory (Spring 2013, Spring 2014, Spring 2015)
 * Undergraduate interns supervised at the Smithsonian Institution:
-** Charlie Detelich (2017) (NC State)
-** Nhut Nguyen (2018) (Santa Monica College)
-** Sophia Sanders (2019) (University of Georgia)
-** Nicole Law (2020, remote due to Covid-19) (Mercyhurst University)
+  * Charlie Detelich (2017) (NC State)
+  * Nhut Nguyen (2018) (Santa Monica College)
+  * Sophia Sanders (2019) (University of Georgia)
+  * Nicole Law (2020, remote due to Covid-19) (Mercyhurst University)
 
 Professional Service
 ======
