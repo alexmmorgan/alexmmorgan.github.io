@@ -5,12 +5,12 @@ permalink: /travel/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% if site.travelmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/travelmap.html">See a map of all the places I've traveled!</a></p>
 
 {% endif %}
 
 {% for post in site.travel reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-single-travel.html %}
 {% endfor %}

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alex Morgan, planetary geologist"
+title                    : "Alex Morgan"
 title_separator          : "-"
 name                     : &name "Alex Morgan"
 description              : &description "personal description"
