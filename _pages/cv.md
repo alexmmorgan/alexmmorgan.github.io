@@ -25,6 +25,22 @@ Professional Experience
 * 2011–2015: 	Research and Teaching Assistant, University of Virginia, Charlottesville, VA
 * 2010–2011: 	Research Associate, NASA Ames Research Center, Mountain View, CA
 
+Publications
+======
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+* Howard, A. D., Wilson, S.A., Morgan, A. M., Moore, J. M., White, O. L. (2021) Light-toned deposit in the northeastern Hellas basin formed by terrain-conforming airfall sedimentation. Icarus. DOI: 10.1016/j.icarus.2021.114356
+* Wilson, S.A., Morgan, A.M., Howard, A.D., Grant, J.A. (2021) The global distribution of craters with alluvial fans and deltas on Mars. Geophysical Research Letters. DOI: 10.1029/2020GL091653
+* Pfeiffer, M.P., Morgan, A.M., Heimsath, A.M., Howard, A.D., Amundson, R. (2021). Century scale rainfall in the absolute Atacama Desert: Landscape response and implications for past and future rainfall. Quaternary Science Reviews. DOI: 10.1016/j.quascirev.2021.106797
+* Palucis, M.C. and Morgan, A.M. (2020). Fluvial geomorphology across the solar system. Treatise on Geomorphology, 2nd Edition. DOI:10.1016/B978-0-12-818234-5.00006-7
+* Morgan, A.M., Craddock, R.A. (2019) Assessing the accuracy of paleodischarge estimates for rivers on Mars. Geophysical Research Letters. DOI: 10.1029/2019GL084921
+* Morgan, A.M., Craddock, R.A. (2017). Depositional processes of alluvial fans along the Hilina Pali fault scarp, Island of Hawaii. Geomorphology 296, 104-112. DOI:10.1016/j.geomorph.2017.08.028
+* Moore, J.M., Howard, A.D., Morgan, A.M. (2014). The Landscape of Titan as Witness to its Climate Evolution. Journal of Geophysical Research-Planets 119, 2060-2077, DOI:10.1002/2014JE004608
+* Morgan, A.M., Howard, A.D., Hobley, D.E.J., Moore, J.M., Dietrich, W.E., Williams, R.M.E., Burr, D.M., Grant, J.A., Wilson, S.A., Matsubara, Y. (2014). Sedimentology and climatic environment of alluvial fans in the martian Saheki crater and a comparison with terrestrial fans in the Atacama Desert. Icarus 229, 131-156, doi DOI:10.1016/j.icarus.2013.11.007
+* Durda, D., Movshovitz, N., Richardson, D., Asphaug, E., Morgan, A., Rawlings, A.R., Vest, C. (2009). Experimental determination of the coefficient of restitution for meter scale granite spheres. Icarus 211, 849-855. DOI:10.1016/j.icarus.2010.09.003
+
 Research Grants
 ======
 * 2021: Reconstructing basaltic sediment transport on Mars using terrestrial analogues
@@ -58,29 +74,6 @@ Research Grants
 ** University of Virginia Department of Environmental Sciences Exploratory Research Award
 ** $1,500 total
 
-Awards and Honors
-======
-* 2015	Moore Research Award, University of Virginia
-* 2015	Department of Environmental Sciences, University of Virginia Chair’s Award
-* 2015	University of Virginia Raven Honor Society
-* 2015	Geologic Society of America Graduate Student Research Grant
-* 2015	Seed Award, National Center for Airborne Laser Mapping
-* 2015: Second Place, Robert J. Huskey Graduate Research Exhibition, Univ. of Virginia
-* 2013: Arthur A. Pegau Award (outstanding geoscience student), Dept. of Environmental Sciences, Univ. of Virginia
-* 2012	NASA Graduate Student Researchers Program Fellowship
-
-Publications
-======
-* 9. Howard, A. D., Wilson, S.A., Morgan, A. M., Moore, J. M., White, O. L. (2021) Light-toned deposit in the northeastern Hellas basin formed by terrain-conforming airfall sedimentation. Icarus. DOI: 10.1016/j.icarus.2021.114356
-* 8. Wilson, S.A., Morgan, A.M., Howard, A.D., Grant, J.A. (2021) The global distribution of craters with alluvial fans and deltas on Mars. Geophysical Research Letters. DOI: 10.1029/2020GL091653
-* 7. Pfeiffer, M.P., Morgan, A.M., Heimsath, A.M., Howard, A.D., Amundson, R. (2021). Century scale rainfall in the absolute Atacama Desert: Landscape response and implications for past and future rainfall. Quaternary Science Reviews. DOI: 10.1016/j.quascirev.2021.106797
-* 6. Palucis, M.C. and Morgan, A.M. (2020). Fluvial geomorphology across the solar system. Treatise on Geomorphology, 2nd Edition. DOI:10.1016/B978-0-12-818234-5.00006-7
-* 5. Morgan, A.M., Craddock, R.A. (2019) Assessing the accuracy of paleodischarge estimates for rivers on Mars. Geophysical Research Letters. DOI: 10.1029/2019GL084921
-* 4. Morgan, A.M., Craddock, R.A. (2017). Depositional processes of alluvial fans along the Hilina Pali fault scarp, Island of Hawaii. Geomorphology 296, 104-112. DOI:10.1016/j.geomorph.2017.08.028
-* 3. Moore, J.M., Howard, A.D., Morgan, A.M. (2014). The Landscape of Titan as Witness to its Climate Evolution. Journal of Geophysical Research-Planets 119, 2060-2077, DOI:10.1002/2014JE004608
-* 2. Morgan, A.M., Howard, A.D., Hobley, D.E.J., Moore, J.M., Dietrich, W.E., Williams, R.M.E., Burr, D.M., Grant, J.A., Wilson, S.A., Matsubara, Y. (2014). Sedimentology and climatic environment of alluvial fans in the martian Saheki crater and a comparison with terrestrial fans in the Atacama Desert. Icarus 229, 131-156, doi DOI:10.1016/j.icarus.2013.11.007
-* 1. Durda, D., Movshovitz, N., Richardson, D., Asphaug, E., Morgan, A., Rawlings, A.R., Vest, C. (2009). Experimental determination of the coefficient of restitution for meter scale granite spheres. Icarus 211, 849-855. DOI:10.1016/j.icarus.2010.09.003
-
 First-Authored Conference Abstracts
 ======
 * Morgan, A. M. et al., (2021) Mars-analogue alluvial fans in the Chilean Atacama desert. Workshop on Terrestrial Analogs for Planetary Exploration. Virtual.
@@ -104,17 +97,6 @@ First-Authored Conference Abstracts
 * Morgan, A.M., Howard, A.D., Hobley, D.D., Moore, J.M., Beyer, R.A. (2012) Intense fluvial deposition during an era of drought on Mars: Evidence from fans at Saheki (and Gale?). AGU Fall Meeting, San Francisco, CA
 * Morgan, A.M., Beyer, R.A., Howard, A.D., Moore, J.M. (2011) Simulating the Formation of Large Alluvial Fans on Mars. Lunar and Planetary Science Conference, The Woodlands, TX
 
-Teaching and Mentoring
-======
-* Courses taught:
-** Fundamentals of Geology Laboratory (Fall 2011, Spring 2012, Fall 2013, Fall 2014)
-** Planetary Geology/Astronomy Laboratory (Spring 2013, Spring 2014, Spring 2015)
-* Undergraduate interns supervised at the Smithsonian Institution:
-** Charlie Detelich (2017) (NC State)
-** Nhut Nguyen (2018) (Santa Monica College)
-** Sophia Sanders (2019) (University of Georgia)
-** Nicole Law (2020, remote due to Covid-19) (Mercyhurst University)
-
 Invited Talks
 ======
 * 2017: GSA Annual Meeting
@@ -126,6 +108,17 @@ Invited Talks
 * 2020: National Air and Space Museum Brown Bag Seminar
 * 2020: Planetary Science Institute
 * 2021: University of Florida, Department of Geology Seminar Series
+
+Teaching and Mentoring
+======
+* Courses taught:
+** Fundamentals of Geology Laboratory (Fall 2011, Spring 2012, Fall 2013, Fall 2014)
+** Planetary Geology/Astronomy Laboratory (Spring 2013, Spring 2014, Spring 2015)
+* Undergraduate interns supervised at the Smithsonian Institution:
+** Charlie Detelich (2017) (NC State)
+** Nhut Nguyen (2018) (Santa Monica College)
+** Sophia Sanders (2019) (University of Georgia)
+** Nicole Law (2020, remote due to Covid-19) (Mercyhurst University)
 
 Professional Service
 ======
@@ -150,3 +143,8 @@ Professional Associations
 ======
 2012 - Present: Geological Society of America (GSA)
 2011 - Present: American Geophysical Union
+
+Other
+======
+* 2015: University of Virginia Raven Honor Society
+* 2003: Eagle Scout, Troop 301, Belmont, CA
