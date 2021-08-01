@@ -17,13 +17,13 @@ Education
 
 Professional Experience
 ======
-* 12/2020-present:	Research Scientist, Planetary Science Institute
-* 10/2020-present:	Research Associate, Smithsonian Institution, Washington, DC
-* 7/2020-11/2020:	Associate Research Scientist, Planetary Science Institute
-* 2017–2020:	Post-Doctoral Research Geologist, Smithsonian Institution, Washington, DC
-* 2015–2017:	Research Fellow, Smithsonian Institution, Washington, DC
-* 2011–2015: 	Research and Teaching Assistant, University of Virginia, Charlottesville, VA
-* 2010–2011: 	Research Associate, NASA Ames Research Center, Mountain View, CA
+* 12/2020 - Present:	Research Scientist, Planetary Science Institute
+* 10/2020 - Present:	Research Associate, Smithsonian Institution, Washington, DC
+* 7/2020 - 11/2020:	Associate Research Scientist, Planetary Science Institute
+* 2017 – 2020:	Post-Doctoral Research Geologist, Smithsonian Institution, Washington, DC
+* 2015 – 2017:	Research Fellow, Smithsonian Institution, Washington, DC
+* 2011 – 2015: 	Research and Teaching Assistant, University of Virginia, Charlottesville, VA
+* 2010 – 2011: 	Research Associate, NASA Ames Research Center, Mountain View, CA
 
 Publications
 ======
@@ -45,25 +45,25 @@ Research Grants
 ======
 * 2021: Reconstructing basaltic sediment transport on Mars using terrestrial analogues
   * NASA Solar Systems Workings Program
-  * A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.A. Craddock (Co-I, Smithsonian). $394,465 total.
+  * A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.A. Craddock (Co-I, Smithsonian). $394,465 total over three years.
 * 2021: Timing and spatial variability of post-Noachian fluvial erosion on Mars
   * NASA Mars Data Analysis Program
-  * A.M. Morgan (Institutional PI), R.P. Irwin III (PI, Smithsonian). $250,837 total.
+  * A.M. Morgan (Co-I), R.P. Irwin III (PI, Smithsonian). $250,837 total over two years.
 * 2021: Do delta deposits around the martian crustal dichotomy record an ancient northern ocean?
   * NASA Mars Data Analysis Program
-  * A.M. Morgan (Institutional PI), M.C. Palucis (PI, Dartmouth), Rivera-Hernandez (Co-I, Georgia Tech). $277,593 total.
+  * A.M. Morgan (Co-I), M.C. Palucis (PI, Dartmouth), Rivera-Hernandez (Co-I, Georgia Tech). $277,593 total over three years.
 * 2020: Linking alluvial fan morphology and sedimentology with formation processes via Martian analog studies in the Atacama Desert, Chile
   * NASA Solar Systems Workings Program
-  * PI: A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.M.E. Williams (Co-I, PSI), R.A. Craddock (Co-I, Smithsonian). $263,661 total.
+  * A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.M.E. Williams (Co-I, PSI), R.A. Craddock (Co-I, Smithsonian). $263,661 total over two years.
 * 2019: Reconstructing basaltic sediment transport on Mars using a Hawaiian Analogue
   * Smithsonian Institution Scholarly Studies Program
-  * A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian). $37,790 total.
+  * A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian). $37,790 total over one year.
 * 2016: High-Resolution Mapping and Geomorphological Studies of Martian Valley Networks
   * NASA Mars Data Analysis Program
-  * A.M Morgan (Post-doc; wrote and executed proposal), R.A. Craddock (PI, Smithsonian). $302,976 total.
+  * A.M Morgan (Post-doc; wrote and executed proposal), R.A. Craddock (PI, Smithsonian). $302,976 total over three years.
 * 2015: Investigating alluvial fan formation processes and the implications for Mars’ climate
   * Smithsonian Institution Earth and Space Sciences Predoctoral Fellowship
-  * A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian). $70,400 total
+  * A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian). $70,400 total over two years.
 * 2015: Characterizing the Sedimentology and Hydrology of Death Valley Alluvial Fans through a Field Analogue and Landform Evolution Modeling
   * University of Virginia Department of Environmental Sciences Moore Research Award
   * $5,000 total.
@@ -77,25 +77,25 @@ Research Grants
 First-Authored Conference Abstracts
 ======
 * Morgan, A. M. et al., (2021) Mars-analogue alluvial fans in the Chilean Atacama desert. Workshop on Terrestrial Analogs for Planetary Exploration. Virtual.
-* Morgan, A.M., Sanders, SC, Craddock, R.A. (2020) Runoff Production on Early Mars. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Wilson, S.A. (2019) Utilizing a global database to explore morphologic trends of martian alluvial fans. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Craddock, R.A. (2019) How Accurate are Paleodischarge Estimates for Martian Rivers?. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Wilson, S.A. (2019) Late Amazonian alluvial fan formation in southern Acidalia Planitia, Mars. AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Craddock, R.A. (2018) Morphometric analyses of every martian valley. Geological Society of America Annual Meeting, Indianapolis, IN
-* Morgan, A.M., Wilson, S.A., Howard, A.D. (2018) Global distribution of alluvial fans and deltas on Mars. Geological Society of America Annual Meeting, Indianapolis, IN"
-* Morgan, A.M., Wilson, S.A., Howard, A.D., Craddock, R.A., Grant, J.A. (2018) Global distribution of alluvial fans and deltas on Mars. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Craddock, R.A. (2017) Mars-analog alluvial fans along the Hilina Pali. Geological Society of America Cordilleran Meeting, Honolulu, HI
-* Morgan, A.M., Howard, A.D., Moore, J.M., Craddock, R.A. (2017) Landform Evolution Modeling of Fine-Grained Alluvial Fan Sedimentation on Mars Utilizing an Atacama Desert Analog. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Craddock, R.A. (2016) Mars analogue alluvial fans along the Hilina Pali fault system, Island of Hawaíi. AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Howard, A.D., Moore, J.M. (2015) Constraints on Environmental Conditions on Mars during Periods of Alluvial Fan Formation: Results from Landform Evolution Modeling. AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Howard, A.D., Moore, J.M., Beyer, R.A. (2013) Simulating Fine grained Alluvial Fan Sedimentation on Mars. AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Howard, A.D., Hobley, D., Matsubara, Y., Moore, J.M., Parsons, R., Dietrich, W., Williams, R.M.E., Burr, D., Hayes, A. (2013) Mars-analog alluvial fans in the Chilean Atacama Desert. International Association of Geomorphology, Paris
-* Morgan, A.M., Howard, A.D., Hobley, D., Matsubara, Y., Moore, J.M., Parsons, R., Williams, R.M.E., Burr, D., Hayes, A., Dietrich, W. (2013) Alluvial Fans of Northern Chile as an Analog to Mars. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Howard, A.D. (2013) Sedimentology and Inferred Climatic Environment of the Alluvial Fans in Saheki Crater, Mars. Amtrak Club, Baltimore, MD
-* Morgan, A.M., Howard, A.D., Moore, J.M., Beyer, R.A. (2012) Episode (s) of intense alluvial deposition during an era of drought on Mars: Evidence from fans at Saheki (and Gale?). AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Beyer, R.A., Howard, A.D., Moore, J.M. (2012) The alluvial fans of Saheki crater. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Howard, A.D., Hobley, D.D., Moore, J.M., Beyer, R.A. (2012) Intense fluvial deposition during an era of drought on Mars: Evidence from fans at Saheki (and Gale?). AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Beyer, R.A., Howard, A.D., Moore, J.M. (2011) Simulating the Formation of Large Alluvial Fans on Mars. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Sanders, SC, Craddock, R.A. (2020) Runoff Production on Early Mars. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Wilson, S.A. (2019) Utilizing a global database to explore morphologic trends of martian alluvial fans. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Craddock, R.A. (2019) How Accurate are Paleodischarge Estimates for Martian Rivers?. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Wilson, S.A. (2019) Late Amazonian alluvial fan formation in southern Acidalia Planitia, Mars. AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Craddock, R.A. (2018) Morphometric analyses of every martian valley. Geological Society of America Annual Meeting, Indianapolis, IN
+* Morgan, A.M., Wilson, S.A., Howard, A.D. (2018) Global distribution of alluvial fans and deltas on Mars. Geological Society of America Annual Meeting, Indianapolis, IN"
+* Morgan, A.M., Wilson, S.A., Howard, A.D., Craddock, R.A., Grant, J.A. (2018) Global distribution of alluvial fans and deltas on Mars. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Craddock, R.A. (2017) Mars-analog alluvial fans along the Hilina Pali. Geological Society of America Cordilleran Meeting, Honolulu, HI
+* Morgan, A.M., Howard, A.D., Moore, J.M., Craddock, R.A. (2017) Landform Evolution Modeling of Fine-Grained Alluvial Fan Sedimentation on Mars Utilizing an Atacama Desert Analog. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Craddock, R.A. (2016) Mars analogue alluvial fans along the Hilina Pali fault system, Island of Hawaíi. AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Howard, A.D., Moore, J.M. (2015) Constraints on Environmental Conditions on Mars during Periods of Alluvial Fan Formation: Results from Landform Evolution Modeling. AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Howard, A.D., Moore, J.M., Beyer, R.A. (2013) Simulating Fine grained Alluvial Fan Sedimentation on Mars. AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Howard, A.D., Hobley, D., Matsubara, Y., Moore, J.M., Parsons, R., Dietrich, W., Williams, R.M.E., Burr, D., Hayes, A. (2013) Mars-analog alluvial fans in the Chilean Atacama Desert. International Association of Geomorphology, Paris
+* Morgan, A.M., Howard, A.D., Hobley, D., Matsubara, Y., Moore, J.M., Parsons, R., Williams, R.M.E., Burr, D., Hayes, A., Dietrich, W. (2013) Alluvial Fans of Northern Chile as an Analog to Mars. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Howard, A.D. (2013) Sedimentology and Inferred Climatic Environment of the Alluvial Fans in Saheki Crater, Mars. Amtrak Club, Baltimore, MD
+* Morgan, A.M., Howard, A.D., Moore, J.M., Beyer, R.A. (2012) Episode (s) of intense alluvial deposition during an era of drought on Mars: Evidence from fans at Saheki (and Gale?). AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Beyer, R.A., Howard, A.D., Moore, J.M. (2012) The alluvial fans of Saheki crater. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Howard, A.D., Hobley, D.D., Moore, J.M., Beyer, R.A. (2012) Intense fluvial deposition during an era of drought on Mars: Evidence from fans at Saheki (and Gale?). AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Beyer, R.A., Howard, A.D., Moore, J.M. (2011) Simulating the Formation of Large Alluvial Fans on Mars. Lunar and Planetary Science Conference, The Woodlands, TX
 
 Invited Talks
 ======
@@ -122,20 +122,20 @@ Teaching and Mentoring
 
 Professional Service
 ======
-* 2021 - Present	Editor, Planetary Exploration Newsletter, 2021-present
-* 2019 - 2021	Program Committee, Lunar and Planetary Science Conference
+* 2021 - Present:	Editor, Planetary Exploration Newsletter, 2021-present
+* 2019 - 2021:	Program Committee, Lunar and Planetary Science Conference
 * 2017 - Present: Panel Reviewer for NASA Science Mission Directorate and National Science Foundation
 * 2017 - Present: Judge for Outstanding Student Paper Award at the American Geophysical Union Fall Meeting
 * 2017 - Present: Judge for Dwornik Award at the Lunar and Planetary Science Conference
 * 2017 - 2021: Session chair, AGU Fall Meeting
 * 2017: Session chair, Lunar and Planetary Science Conference
-* 2015 - 2017	Graduate Student Representative to AGU Planetary Science Section
-* 2014 - 2015	Graduate School of Arts and Sciences representative to University of Virginia Honor Committee
+* 2015 - 2017:	Graduate Student Representative to AGU Planetary Science Section
+* 2014 - 2015:	Graduate School of Arts and Sciences representative to University of Virginia Honor Committee
 * 2014 - Present: Journal Reviewer for Earth and Planetary Science Letters, Earth Surface Dynamics, Icarus, Geosciences, Journal of Geophysical Research, Nature Communications, Remote Sensing
 
 Outreach
 ======
-* 2021 - Present	Participating Scientist, Scientist in Every Florida School
+* 2021 - Present:	Participating Scientist, Scientist in Every Florida School
 * 2015-2019: National Air and Space Museum Moon/Mars Day
 * 2015-2020: Various outreach activities at the National Air and Space Museum
 
