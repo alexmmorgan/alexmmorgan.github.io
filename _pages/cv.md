@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* December 2010	Bachelor of Science, Department of Earth and Planetary Sciences, University of California at Santa Cruz
 * November 2017	Doctor of Philosophy, Department of Environmental Sciences, University of Virginia
   * Dissertation: Sedimentology, hydrology, and climatic environment of alluvial fans on Earth and Mars, Advisor: Professor Alan D. Howard
+* December 2010	Bachelor of Science, Department of Earth and Planetary Sciences, University of California at Santa Cruz
 
 Professional Experience
 ======
@@ -27,7 +27,7 @@ Professional Experience
 
 Publications
 ======
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=rdqaPG0AAAAJ">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a target="_blank" href="https://scholar.google.com/citations?user=rdqaPG0AAAAJ">my Google Scholar profile </a>.</u>
 
 * Goudge, T. A., Morgan, A. M., Stucky de Quay, G., and Fassett, C. I. (in press) The importance of lake breach floods for valley incision on early Mars. Nature.
 * Howard, A. D., Wilson, S.A., Morgan, A. M., Moore, J. M., White, O. L. (2021) Light-toned deposit in the northeastern Hellas basin formed by terrain-conforming airfall sedimentation. Icarus. DOI: 10.1016/j.icarus.2021.114356
@@ -44,34 +44,31 @@ Research Grants
 ======
 * 2021: Reconstructing basaltic sediment transport on Mars using terrestrial analogues
   * NASA Solar Systems Workings Program
-  * A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.A. Craddock (Co-I, Smithsonian). $394,465 total over three years.
+  * A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.A. Craddock (Co-I, Smithsonian)
 * 2021: Timing and spatial variability of post-Noachian fluvial erosion on Mars
   * NASA Mars Data Analysis Program
-  * A.M. Morgan (Co-I), R.P. Irwin III (PI, Smithsonian). $250,837 total over two years.
+  * A.M. Morgan (Co-I), R.P. Irwin III (PI, Smithsonian)
 * 2021: Do delta deposits around the martian crustal dichotomy record an ancient northern ocean?
   * NASA Mars Data Analysis Program
-  * A.M. Morgan (Co-I), M.C. Palucis (PI, Dartmouth), Rivera-Hernandez (Co-I, Georgia Tech). $277,593 total over three years.
+  * A.M. Morgan (Co-I), M.C. Palucis (PI, Dartmouth), Rivera-Hernandez (Co-I, Georgia Tech)
 * 2020: Linking alluvial fan morphology and sedimentology with formation processes via Martian analog studies in the Atacama Desert, Chile
   * NASA Solar Systems Workings Program
-  * A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.M.E. Williams (Co-I, PSI), R.A. Craddock (Co-I, Smithsonian). $263,661 total over two years.
+  * A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.M.E. Williams (Co-I, PSI), R.A. Craddock (Co-I, Smithsonian)
 * 2019: Reconstructing basaltic sediment transport on Mars using a Hawaiian Analogue
   * Smithsonian Institution Scholarly Studies Program
-  * A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian). $37,790 total over one year.
+  * A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian)
 * 2016: High-Resolution Mapping and Geomorphological Studies of Martian Valley Networks
   * NASA Mars Data Analysis Program
-  * A.M Morgan (Post-doc; wrote and executed proposal), R.A. Craddock (PI, Smithsonian). $302,976 total over three years.
+  * A.M Morgan (Post-doc; wrote and executed proposal), R.A. Craddock (PI, Smithsonian)
 * 2015: Investigating alluvial fan formation processes and the implications for Mars’ climate
   * Smithsonian Institution Earth and Space Sciences Predoctoral Fellowship
-  * A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian). $70,400 total over two years.
+  * A.M. Morgan (PI), R.A. Craddock (Co-I, Smithsonian)
 * 2015: Characterizing the Sedimentology and Hydrology of Death Valley Alluvial Fans through a Field Analogue and Landform Evolution Modeling
   * University of Virginia Department of Environmental Sciences Moore Research Award
-  * $5,000 total.
 * 2015: "Modeling alluvial fan avulsion"
   * Geologic Society of America Graduate Student Research Grant
-  * $1,176 total
 * 2014: Investigating Flow Processes and Sedimentology in the Death Valley Region
   * University of Virginia Department of Environmental Sciences Exploratory Research Award
-  * $1,500 total
 
 First-Authored Conference Abstracts
 ======
@@ -114,7 +111,7 @@ Teaching and Mentoring
   * Fundamentals of Geology Laboratory (Fall 2011, Spring 2012, Fall 2013, Fall 2014)
   * Planetary Geology/Astronomy Laboratory (Spring 2013, Spring 2014, Spring 2015)
 * Undergraduate interns supervised at the Smithsonian Institution:
-  * Charlie Detelich (2017) (NC State)
+  * Charlie Detelich (2017) (North Carolina State University)
   * Nhut Nguyen (2018) (Santa Monica College)
   * Sophia Sanders (2019) (University of Georgia)
   * Nicole Law (2020, remote due to Covid-19) (Mercyhurst University)
