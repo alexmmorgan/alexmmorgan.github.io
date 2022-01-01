@@ -11,13 +11,25 @@ I am a geologist interested in the evolution of planetary surfaces. I use a comb
 
 (This page is still under construction)
 
-<strong>Mars</strong>
-Martian alluvial fans
-Martian valley networks
+Mars
+======
+* Martian valley networks
+  * Evidence for multiple episodes of erosional activity in the Gale crater region
+  * Global investigations of valley morphology using a semi-automated approach
+  * Demonstration that ~25% of valley network erosion was due to lake outlet floods
+  * Timescales of valley formation using crater counts and reconstruction of pre-valley surface
+  * Production of a new martian valley network map
+    * test
+* Martian alluvial fans
+  * Global distribution of alluvial fans and putative deltas
+  * Detailed geomorphic and sedimentologic study of the alluvial fans in Saheki crater
+  * Landform evolution modeling of fine grained alluvial fan sedimentation
 
 Earth
-Atacama Desert
-Hawaii
-Iceland
-Simpson Desert, Australia
-Northern Canada
+======
+* Atacama Desert
+
+* Hawaii
+* Iceland
+* Simpson Desert, Australia
+* Northern Canada
