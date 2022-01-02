@@ -19,9 +19,9 @@ Mars
   * Timescales of valley formation using crater counts and reconstruction of pre-valley surface
     * Manuscript in preparation, see [Morgan (2021) AGU Fall Meeting](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/950361)
   * Global investigations of valley morphology using a semi-automated approach
-    * [Morgan and Craddock (2018) AGU Fall Meeting](https://ui.adsabs.harvard.edu/abs/2018AGUFM.P31I3819M/abstract)
+    * [Morgan & Craddock (2018) AGU Fall Meeting](https://ui.adsabs.harvard.edu/abs/2018AGUFM.P31I3819M/abstract)
   * Evidence for multiple episodes of erosional activity in the Gale crater region
-    * Manuscript in preparation, see [Law and Morgan (2020) AGU Fall Meeting](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/771994)
+    * Manuscript in preparation, see [Law & Morgan (2020) AGU Fall Meeting](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/771994)
 * Martian alluvial fans
   * Global distribution of alluvial fans and putative deltas
     * [Wilson, Morgan, Howard, Grant, (2021) Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL091653)
@@ -38,7 +38,7 @@ Earth
   * Studies of fine-grained alluvial fans as a Mars analogue
     * Work in progress, see [Morgan et al. (2021) Planetary Analogues Workshop](https://www.hou.usra.edu/meetings/terrestrialanalogs2021/pdf/8073.pdf)
   * Geomorphic response to a hundred year storm in the absolute desert
-    * [Pfeiffer, Morgan, Heimsath, Jordan, Howard, Amundson (2021) Quaternary Science Reviews](https://www.sciencedirect.com/science/article/abs/pii/S0277379121000044)
+    * [Pfeiffer et al. (2021) Quaternary Science Reviews](https://www.sciencedirect.com/science/article/abs/pii/S0277379121000044)
 * Hawaii
   * Investigations of the provenance of basaltic sand dunes
     * Manusript in preparation, see [Craddock et al. (2019) LPSC](https://www.hou.usra.edu/meetings/lpsc2019/pdf/2627.pdf)
@@ -47,7 +47,7 @@ Earth
 * Hawaii and Iceland
   * Reconstructing basaltic sediment transport on Mars. Recently funded, field work is planned for 2022 and 2023.
 * Simpson Desert, Australia
-  * Manuscript in preparation, see [[Craddock et al. (2021) Planetary Analogues Workshop]](https://www.hou.usra.edu/meetings/terrestrialanalogs2021/pdf/8092.pdf)
+  * Manuscript in preparation, see [Craddock et al. (2021) Planetary Analogues Workshop](https://www.hou.usra.edu/meetings/terrestrialanalogs2021/pdf/8092.pdf)
   * Work in progress, see [Kling et al. (2019) LPSC](https://www.hou.usra.edu/meetings/lpsc2019/pdf/2920.pdf)
 * Northern Canada
   * Manuscript in preparation, see [Palucis et al. (2021) LPSC](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1918.pdf)
