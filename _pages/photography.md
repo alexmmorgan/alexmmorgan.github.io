@@ -3,6 +3,11 @@ layout: archive
 title: "Photography"
 permalink: /photography/
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: banner_atacama1.png
+  actions:
 ---
 
 {% include base_path %}
@@ -10,8 +15,6 @@ author_profile: true
 This page is under construction
 
 I'm fortunate in that my work lets me travel all over the globe, and I like to take pictures of cool landscapes that I encounter.
-
-test image grid:
 
 <html>
 <head>
@@ -48,58 +51,47 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/A-Alamy-BXWK5E_vvmkuf.jpg">
-    <img src="https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/A-Alamy-BXWK5E_vvmkuf.jpg" alt="Forest" width="600" height="400">
+    <a target="_blank" href="https://alexmmorgan.github.io//images/arizona-2.jpg">
+    <img src="https://alexmmorgan.github.io//images/arizona-1.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Arizona</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="https://cdn.mos.cms.futurecdn.net/ntFmJUZ8tw3ULD3tkBaAtf.jpg">
-    <img src="https://cdn.mos.cms.futurecdn.net/ntFmJUZ8tw3ULD3tkBaAtf.jpg" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="https://alexmmorgan.github.io//images/asia-1.jpg">
+    <img src="https://alexmmorgan.github.io//images/asia-1.jpg" alt="Street in Saigon" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="gallery">
-  <a target="_blank" href="https://geographical.co.uk/media/k2/items/cache/852c2fa5e5468761c3ae8b796ca9be85_XL.jpg">
-    <img src="https://geographical.co.uk/media/k2/items/cache/852c2fa5e5468761c3ae8b796ca9be85_XL.jpg" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Street in Saigon</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/A-Alamy-BXWK5E_vvmkuf.jpg">
-    <img src="https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/A-Alamy-BXWK5E_vvmkuf.jpg" alt="Forest" width="600" height="400">
+    <a target="_blank" href="https://alexmmorgan.github.io//images/asia-2.jpg">
+    <img src="https://alexmmorgan.github.io//images/asia-2.jpg" alt="Tonle Sap, Cambodia" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">ArTonle Sap, Cambodiaizona</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="https://cdn.mos.cms.futurecdn.net/ntFmJUZ8tw3ULD3tkBaAtf.jpg">
-    <img src="https://cdn.mos.cms.futurecdn.net/ntFmJUZ8tw3ULD3tkBaAtf.jpg" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="https://alexmmorgan.github.io//images/asia-3.jpg">
+    <img src="https://alexmmorgan.github.io//images/asia-3.jpg" alt="Tonle Sap, Cambodia" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="gallery">
-  <a target="_blank" href="https://geographical.co.uk/media/k2/items/cache/852c2fa5e5468761c3ae8b796ca9be85_XL.jpg">
-    <img src="https://geographical.co.uk/media/k2/items/cache/852c2fa5e5468761c3ae8b796ca9be85_XL.jpg" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Tonle Sap, Cambodia</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/A-Alamy-BXWK5E_vvmkuf.jpg">
-    <img src="https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/A-Alamy-BXWK5E_vvmkuf.jpg" alt="Forest" width="600" height="400">
+    <a target="_blank" href="https://alexmmorgan.github.io//images/asia-4.jpg">
+    <img src="https://alexmmorgan.github.io//images/asia-4.jpg" alt="Agkor, Cambodia" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Agkor, Cambodia</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="https://cdn.mos.cms.futurecdn.net/ntFmJUZ8tw3ULD3tkBaAtf.jpg">
-    <img src="https://cdn.mos.cms.futurecdn.net/ntFmJUZ8tw3ULD3tkBaAtf.jpg" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="https://alexmmorgan.github.io//images/asia-5.jpg">
+    <img src="https://alexmmorgan.github.io//images/asia-5.jpg" alt="Tonle Sap, Cambodia" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Tonle Sap, Cambodia</div>
 </div>
+
 </body>
 </html>
 

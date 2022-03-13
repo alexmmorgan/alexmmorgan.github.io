@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : Research Scientist, Planetary Science Institute #"Your biography for the left-hand sidebar"
+  bio              : Research Scientist&nbsp;Planetary Science Institute #"Your biography for the left-hand sidebar"
   location         : "Gainesville, FL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
