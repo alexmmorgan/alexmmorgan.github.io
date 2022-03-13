@@ -27,7 +27,7 @@ Professional Experience
 
 Publications
 ======
-You can also find my articles on <u><a target="_blank" href="https://scholar.google.com/citations?user=rdqaPG0AAAAJ">my Google Scholar profile </a>.</u>
+Please email me if you would like a PDF version of any of these papers. See <u><a target="_blank" href="https://scholar.google.com/citations?user=rdqaPG0AAAAJ">my Google Scholar profile </a> for the most up-to-date version of this list.</u>
 * Holo, S. J., Kite, E. S., Wilson, S. A., Morgan, A. M. (2021) The timing of alluvial fan formation on Mars. Planetary Science Journal. DOI: 10.3847/PSJ/ac25ed
 * Goudge, T. A., Morgan, A. M., Stucky de Quay, G., and Fassett, C. I. (2021) The importance of lake breach floods for valley incision on early Mars. Nature. DOI: 10.1038/s41586-021-03860-1
 * Howard, A. D., Wilson, S.A., Morgan, A. M., Moore, J. M., White, O. L. (2021) Light-toned deposit in the northeastern Hellas basin formed by terrain-conforming airfall sedimentation. Icarus. DOI: 10.1016/j.icarus.2021.114356
@@ -72,26 +72,30 @@ Research Grants
 
 First-Authored Conference Abstracts
 ======
-* Morgan, A. M. et al., (2021) Mars-analogue alluvial fans in the Chilean Atacama desert. Workshop on Terrestrial Analogs for Planetary Exploration. Virtual.
-* Morgan, A.M., Sanders, SC, Craddock, R.A. (2020) Runoff Production on Early Mars. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Wilson, S.A. (2019) Utilizing a global database to explore morphologic trends of martian alluvial fans. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Craddock, R.A. (2019) How Accurate are Paleodischarge Estimates for Martian Rivers?. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Wilson, S.A. (2019) Late Amazonian alluvial fan formation in southern Acidalia Planitia, Mars. AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Craddock, R.A. (2018) Morphometric analyses of every martian valley. Geological Society of America Annual Meeting, Indianapolis, IN
-* Morgan, A.M., Wilson, S.A., Howard, A.D. (2018) Global distribution of alluvial fans and deltas on Mars. Geological Society of America Annual Meeting, Indianapolis, IN"
-* Morgan, A.M., Wilson, S.A., Howard, A.D., Craddock, R.A., Grant, J.A. (2018) Global distribution of alluvial fans and deltas on Mars. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Craddock, R.A. (2017) Mars-analog alluvial fans along the Hilina Pali. Geological Society of America Cordilleran Meeting, Honolulu, HI
-* Morgan, A.M., Howard, A.D., Moore, J.M., Craddock, R.A. (2017) Landform Evolution Modeling of Fine-Grained Alluvial Fan Sedimentation on Mars Utilizing an Atacama Desert Analog. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Craddock, R.A. (2016) Mars analogue alluvial fans along the Hilina Pali fault system, Island of Hawaíi. AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Howard, A.D., Moore, J.M. (2015) Constraints on Environmental Conditions on Mars during Periods of Alluvial Fan Formation: Results from Landform Evolution Modeling. AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Howard, A.D., Moore, J.M., Beyer, R.A. (2013) Simulating Fine grained Alluvial Fan Sedimentation on Mars. AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Howard, A.D., Hobley, D., Matsubara, Y., Moore, J.M., Parsons, R., Dietrich, W., Williams, R.M.E., Burr, D., Hayes, A. (2013) Mars-analog alluvial fans in the Chilean Atacama Desert. International Association of Geomorphology, Paris
-* Morgan, A.M., Howard, A.D., Hobley, D., Matsubara, Y., Moore, J.M., Parsons, R., Williams, R.M.E., Burr, D., Hayes, A., Dietrich, W. (2013) Alluvial Fans of Northern Chile as an Analog to Mars. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Howard, A.D. (2013) Sedimentology and Inferred Climatic Environment of the Alluvial Fans in Saheki Crater, Mars. Amtrak Club, Baltimore, MD
-* Morgan, A.M., Howard, A.D., Moore, J.M., Beyer, R.A. (2012) Episode (s) of intense alluvial deposition during an era of drought on Mars: Evidence from fans at Saheki (and Gale?). AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Beyer, R.A., Howard, A.D., Moore, J.M. (2012) The alluvial fans of Saheki crater. Lunar and Planetary Science Conference, The Woodlands, TX
-* Morgan, A.M., Howard, A.D., Hobley, D.D., Moore, J.M., Beyer, R.A. (2012) Intense fluvial deposition during an era of drought on Mars: Evidence from fans at Saheki (and Gale?). AGU Fall Meeting, San Francisco, CA
-* Morgan, A.M., Beyer, R.A., Howard, A.D., Moore, J.M. (2011) Simulating the Formation of Large Alluvial Fans on Mars. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A. M. (2022) Evidence for prolonged and episodic fluvial activity recorded in martian valley network morphology. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A. M., Wilson, S. A., Howard, A. D. (2022) Geographic distribution and morphological characteristics of fan-shaped sedimentary landforms on Mars. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A. M. (2021) Investigation of some valley networks and their associated drainage basins in western Terra Sabaea. AGU Fall Meeting, New Orleans, LA
+* Morgan, A. M., Goudge, T. A., Stucky de Quay, G., Fassett, C. I. (2021) Paleolake Outlet Valley Incision and the Early Mars Landscape. AGU Fall Meeting, New Orleans, LA
+* Morgan, A. M. et al. (2021) Mars-analogue alluvial fans in the Chilean Atacama desert. Workshop on Terrestrial Analogs for Planetary Exploration. Virtual.
+* Morgan, A.M., Sanders, SC, Craddock, R.A. (2020) Runoff Production on Early Mars. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Wilson, S.A. (2019) Utilizing a global database to explore morphologic trends of martian alluvial fans. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Craddock, R.A. (2019) How Accurate are Paleodischarge Estimates for Martian Rivers?. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Wilson, S.A. (2019) Late Amazonian alluvial fan formation in southern Acidalia Planitia, Mars. AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Craddock, R.A. (2018) Morphometric analyses of every martian valley. Geological Society of America Annual Meeting, Indianapolis, IN
+* Morgan, A.M., Wilson, S.A., Howard, A.D. (2018) Global distribution of alluvial fans and deltas on Mars. Geological Society of America Annual Meeting, Indianapolis, IN"
+* Morgan, A.M., Wilson, S.A., Howard, A.D., Craddock, R.A., Grant, J.A. (2018) Global distribution of alluvial fans and deltas on Mars. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Craddock, R.A. (2017) Mars-analog alluvial fans along the Hilina Pali. Geological Society of America Cordilleran Meeting, Honolulu, HI
+* Morgan, A.M., Howard, A.D., Moore, J.M., Craddock, R.A. (2017) Landform Evolution Modeling of Fine-Grained Alluvial Fan Sedimentation on Mars Utilizing an Atacama Desert Analog. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Craddock, R.A. (2016) Mars analogue alluvial fans along the Hilina Pali fault system, Island of Hawaíi. AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Howard, A.D., Moore, J.M. (2015) Constraints on Environmental Conditions on Mars during Periods of Alluvial Fan Formation: Results from Landform Evolution Modeling. AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Howard, A.D., Moore, J.M., Beyer, R.A. (2013) Simulating Fine grained Alluvial Fan Sedimentation on Mars. AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Howard, A.D., Hobley, D., Matsubara, Y., Moore, J.M., Parsons, R., Dietrich, W., Williams, R.M.E., Burr, D., Hayes, A. (2013) Mars-analog alluvial fans in the Chilean Atacama Desert. International Association of Geomorphology, Paris
+* Morgan, A.M., Howard, A.D., Hobley, D., Matsubara, Y., Moore, J.M., Parsons, R., Williams, R.M.E., Burr, D., Hayes, A., Dietrich, W. (2013) Alluvial Fans of Northern Chile as an Analog to Mars. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Howard, A.D. (2013) Sedimentology and Inferred Climatic Environment of the Alluvial Fans in Saheki Crater, Mars. Amtrak Club, Baltimore, MD
+* Morgan, A.M., Howard, A.D., Moore, J.M., Beyer, R.A. (2012) Episode (s) of intense alluvial deposition during an era of drought on Mars: Evidence from fans at Saheki (and Gale?). AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Beyer, R.A., Howard, A.D., Moore, J.M. (2012) The alluvial fans of Saheki crater. Lunar and Planetary Science Conference, The Woodlands, TX
+* Morgan, A.M., Howard, A.D., Hobley, D.D., Moore, J.M., Beyer, R.A. (2012) Intense fluvial deposition during an era of drought on Mars: Evidence from fans at Saheki (and Gale?). AGU Fall Meeting, San Francisco, CA
+* Morgan, A.M., Beyer, R.A., Howard, A.D., Moore, J.M. (2011) Simulating the Formation of Large Alluvial Fans on Mars. Lunar and Planetary Science Conference, The Woodlands, TX
 
 Invited Talks
 ======
@@ -99,11 +103,14 @@ Invited Talks
 * 2018: Macquarie University, Department of Earth and Environmental Sciences Seminar Series
 * 2019: NASA Goddard, Solar System Exploration Division Seminar Series
 * 2019: National Museum of Natural History, Department of Mineral Sciences Seminar Series
-* 2019: National Air and Space Museum Brown Bag Seminar
+* 2019: National Air and Space Museum Seminar
 * 2020: Geological Society of Washington
-* 2020: National Air and Space Museum Brown Bag Seminar
+* 2020: National Air and Space Museum Seminar
 * 2020: Planetary Science Institute
 * 2021: University of Florida, Department of Geology Seminar Series
+* 2022: National Air and Space Museum Seminar
+* 2022: SynoPSIs Seminar
+
 
 Teaching and Mentoring
 ======
@@ -118,13 +125,13 @@ Teaching and Mentoring
 
 Professional Service
 ======
-* 2021 - Present:	Editor, Planetary Exploration Newsletter, 2021-present
-* 2019 - 2021:	Program Committee, Lunar and Planetary Science Conference
+* 2021 - Present: Editor, Planetary Exploration Newsletter
+* 2019 - 2021:  Program Committee, Lunar and Planetary Science Conference
 * 2017 - Present: Panel Reviewer for NASA Science Mission Directorate and National Science Foundation
 * 2017 - Present: Judge for Outstanding Student Paper Award at the American Geophysical Union Fall Meeting
 * 2017 - Present: Judge for Dwornik Award at the Lunar and Planetary Science Conference
-* 2017 - 2021: Session chair, AGU Fall Meeting
-* 2017: Session chair, Lunar and Planetary Science Conference
+* 2017 - 2021:  Session chair, AGU Fall Meeting
+* 2017 - 2022:  Session chair, Lunar and Planetary Science Conference
 * 2015 - 2017:	Graduate Student Representative to AGU Planetary Science Section
 * 2014 - 2015:	Graduate School of Arts and Sciences representative to University of Virginia Honor Committee
 * 2014 - Present: Journal Reviewer for Earth and Planetary Science Letters, Earth Surface Dynamics, Icarus, Geosciences, Journal of Geophysical Research, Nature Communications, Remote Sensing

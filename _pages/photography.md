@@ -41,10 +41,10 @@ div.desc {
 <body>
 
 <div class="gallery">
-  <a target="_blank" href="https://geographical.co.uk/media/k2/items/cache/852c2fa5e5468761c3ae8b796ca9be85_XL.jpg">
-    <img src="https://geographical.co.uk/media/k2/items/cache/852c2fa5e5468761c3ae8b796ca9be85_XL.jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="https://alexmmorgan.github.io//images/arizona-1.jpg">
+    <img src="https://alexmmorgan.github.io//images/arizona-1.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Arizona</div>
 </div>
 
 <div class="gallery">

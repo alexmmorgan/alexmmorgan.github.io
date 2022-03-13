@@ -82,13 +82,13 @@ analytics:
 author:
   name             : #"Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : Research Scientist, Planetary Science Institute #"Your biography for the left-hand sidebar"
   location         : "Gainesville, FL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rdqaPG0AAAAJ&hl=en&authuser=1"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "amorgan@psi.edu"
+  researchgate     : "https://www.researchgate.net/profile/Alexander-Morgan-5" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
