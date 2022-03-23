@@ -36,19 +36,12 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 15px;
+  padding: 5px;
   text-align: center;
 }
 </style>
 </head>
 <body>
-
-<div class="gallery">
-  <a target="_blank" href="https://alexmmorgan.github.io//images/asia-1.jpg">
-    <img src="https://alexmmorgan.github.io//images/asia-1.jpg" alt="Saigon, Vietnam" width="600" height="400">
-  </a>
-  <div class="desc">Vietnam</div>
-</div>
 
 <div class="gallery">
   <a target="_blank" href="https://alexmmorgan.github.io//images/asia-10.jpg">
@@ -572,7 +565,7 @@ div.desc {
   <a target="_blank" href="https://alexmmorgan.github.io//images/sierras-17.jpg">
     <img src="https://alexmmorgan.github.io//images/sierras-17.jpg" alt="Sierra Nevada, California" width="600" height="400">
   </a>
-  <div class="desc"Sierra Nevada></div>
+  <div class="desc">Sierra Nevada</div>
 </div>
 
 <div class="gallery">
