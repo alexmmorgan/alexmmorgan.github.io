@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Photography"
-permalink: /photography/
+title: "Photos"
+permalink: /photos/
 author_profile: true
 header:
   overlay_color: "#000"
@@ -42,7 +42,6 @@ div.gallery img {
   <a target="_blank" href="https://alexmmorgan.github.io//images/asia-10.jpg">
     <img src="https://alexmmorgan.github.io//images/asia-10.jpg" alt="Angkor, Cambodia" width="600" height="400">
   </a>
-  <div class="desc">Cambodia</div>
 </div>
 
 <div class="gallery">
