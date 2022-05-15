@@ -33,10 +33,7 @@ div.gallery img {
   height: auto;
 }
 
-div.desc {
-  padding: 1px;
-  text-align: center;
-}
+
 </style>
 </head>
 <body>
