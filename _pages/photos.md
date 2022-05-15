@@ -10,7 +10,7 @@ header:
 
 {% include base_path %}
 
-I'm fortunate in that my work lets me travel all over the globe, and I like to take pictures of cool landscapes that I encounter.
+I'm fortunate in that my work lets me travel all over the globe, and. I like to take pictures of cool landscapes that I encounter.
 
 <html>
 <head>
