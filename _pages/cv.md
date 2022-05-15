@@ -33,6 +33,7 @@ Professional Experience
 Publications
 ======
 Please email me if you would like a PDF version of any of these papers. See <u><a target="_blank" href="https://scholar.google.com/citations?user=rdqaPG0AAAAJ">my Google Scholar profile </a> for the most up-to-date version of this list.</u>
+
 * Holo, S. J., Kite, E. S., Wilson, S. A., Morgan, A. M. (2021) The timing of alluvial fan formation on Mars. Planetary Science Journal. DOI: 10.3847/PSJ/ac25ed
 * Goudge, T. A., Morgan, A. M., Stucky de Quay, G., and Fassett, C. I. (2021) The importance of lake breach floods for valley incision on early Mars. Nature. DOI: 10.1038/s41586-021-03860-1
 * Howard, A. D., Wilson, S.A., Morgan, A. M., Moore, J. M., White, O. L. (2021) Light-toned deposit in the northeastern Hellas basin formed by terrain-conforming airfall sedimentation. Icarus. DOI: 10.1016/j.icarus.2021.114356
@@ -44,6 +45,11 @@ Please email me if you would like a PDF version of any of these papers. See <u><
 * Moore, J.M., Howard, A.D., Morgan, A.M. (2014). The Landscape of Titan as Witness to its Climate Evolution. Journal of Geophysical Research-Planets 119, 2060-2077, DOI:10.1002/2014JE004608
 * Morgan, A.M., Howard, A.D., Hobley, D.E.J., Moore, J.M., Dietrich, W.E., Williams, R.M.E., Burr, D.M., Grant, J.A., Wilson, S.A., Matsubara, Y. (2014). Sedimentology and climatic environment of alluvial fans in the martian Saheki crater and a comparison with terrestrial fans in the Atacama Desert. Icarus 229, 131-156, doi DOI:10.1016/j.icarus.2013.11.007
 * Durda, D., Movshovitz, N., Richardson, D., Asphaug, E., Morgan, A., Rawlings, A.R., Vest, C. (2009). Experimental determination of the coefficient of restitution for meter scale granite spheres. Icarus 211, 849-855. DOI:10.1016/j.icarus.2010.09.003
+
+In review and in press
+* Kite, E. S., Mischna, M.A., Fan, B., Morgan, A.M., Wilson, S.A., Richardson, M.I. Changing spatial distribution of water flow charts major change in Mars’ greenhouse effect. Science Advances
+* Palucis, M.C., Morgan, A.M., Strauss, J., Rivera-Hernandez. F., Marshall, J., Menio, E., Miller, R. Rates and processes controlling periglacial alluvial fan formation: Implications for martian fans. GSA Bulletin
+* Morgan, A.M., Wilson, S.A., Howard, A.D. The global distribution and morphologic characteristics of fan-shaped sedimentary landforms on Mars. Icarus
 
 Research Grants
 ======
