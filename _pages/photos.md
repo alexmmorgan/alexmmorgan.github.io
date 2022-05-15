@@ -18,8 +18,8 @@ I'm fortunate in that my work lets me travel all over the globe, and I like to t
 <head>
 <style>
 div.gallery {
-  margin: 0px;
-  border: 0px solid #ccc;
+  margin: 1px;
+  border: 1px solid #ccc;
   float: left;
   width: 180px;
 }
