@@ -14,4 +14,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a geologist interested in the how planetary surfaces change over time. Most of my work is focused on the early history of Mars. The Mars we see today is a cold and dry global desert, but it has landscapes that appear to be remarkably similar to the river valleys, alluvial fans, and deltas with which we are familiar on Earth. I use a combination of remote sensing data from orbital spacecraft, numerical modeling, and field work at analogue sites on Earth to better understand these landforms and the environment in which they formed.
+I am a planetary geomorphologist with a focus on how fluvial processes shape the landscapes of Earth, Mars, and Titan. My research primarily explores how Mars' surface evolved as its climate shifted from a wetter past to the cold, arid conditions we see today. While Earth's early geologic record has been largely obscured by tectonics, erosion, and volcanism, Mars preserves much of its ancient surface, offering a unique opportunity to study early planetary environments and draw parallels to early Earth conditions. Mars’ fluvially altered landscapes also serve as a natural laboratory for testing landscape evolution models developed on Earth, underscoring the connections between planetary and terrestrial geology.
+
+I use Geographic Information Systems (GIS) to analyze image and topographic data, complemented by numerical modeling. Additionally, I conduct fieldwork in locations that serve as geological or climatic analogs to the Martian environment.
+
+I am based in beautiful eastern Virginia. I am currently a staff scientist at the Planetary Science Institute, as well as a visiting research associate at the Smithsonian Institution. Previously I was at the National Air and Space Museum, the University of Virginia, NASA Ames Research Center, and the University of California Santa Cruz.
+
+Despite my best efforts, this website is inevitably out of date, so I encourage you to also check out my <a href="https://www.psi.edu/staff/profile/alexander-morgan/">PSI staff page</a>.
