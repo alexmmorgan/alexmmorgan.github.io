@@ -6,7 +6,8 @@ Name Name:
   email       : "amorgan@psi.edu"
   bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
-  google_plus : "Name"
+#  twitter     : "geologyofmars"
+#  google_plus : "Name"
   googlescholar : "https://scholar.google.com/citations?user=rdqaPG0AAAAJ&hl=en&authuser=1"
 
 Name2 Name2:
@@ -14,5 +15,5 @@ Name2 Name2:
   email       : "name2@name2.com"
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+#  twitter     : "name2"
+#  google_plus : "Name"
