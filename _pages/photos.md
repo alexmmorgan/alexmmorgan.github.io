@@ -4,7 +4,7 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 header:
-  overlay_image: /assets/images/banner_atacama1.png
+  overlay_image: banner_atacama1.png
   actions:
 ---
 
