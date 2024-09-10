@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.travel reversed %}
+{% assign ordered_pages = site.travel | sort:"order_number" %}
+
+{% for post in ordered_pages %}
   {% include archive-single-travel.html %}
 {% endfor %}
