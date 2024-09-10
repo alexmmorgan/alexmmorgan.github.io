@@ -4,7 +4,7 @@ title: ""
 excerpt: "About"
 author_profile: true
 header:
-  image: https://alexmmorgan.github.io//images/banner_atacama1.jpg
+  overlay_image: https://alexmmorgan.github.io//images/banner_atacama1.jpg
 redirect_from: 
   - /about/
   - /about.html
