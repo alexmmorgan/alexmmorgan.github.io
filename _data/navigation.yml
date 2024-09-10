@@ -12,5 +12,5 @@ main:
   - title: "Data"
     url: /data/
 
-- title: "Travel"
+  - title: "Travel"
     url: /travel/
