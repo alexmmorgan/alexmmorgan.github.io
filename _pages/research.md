@@ -4,8 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  overlay_image: /assets/images/banner_atacama1.png
-excerpt:
+  overlay_image: /assets/images/banner_atacama1.jpg
+excerpt: "there should be an overlay image"
 ---
 
 {% include base_path %}
