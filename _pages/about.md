@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About"
+excerpt: 
 author_profile: true
 header:
   overlay_image: https://alexmmorgan.github.io//images/banner_atacama1.jpg

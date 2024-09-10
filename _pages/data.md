@@ -3,7 +3,12 @@ layout: archive
 title: "Data"
 permalink: /data/
 author_profile: true
+header:
+  overlay_image: https://alexmmorgan.github.io//images/banner_atacama2.jpg
 ---
+
+
+
 
 {% include base_path %}
 
