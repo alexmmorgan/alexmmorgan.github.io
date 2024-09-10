@@ -17,7 +17,6 @@ I am a geologist interested in the evolution of planetary surfaces. I use a comb
 
 Some highlights of projects I have worked on or am working on are listed below.
 
-
 Mars
 ======
 * Martian valley networks
