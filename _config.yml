@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : #"Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : Research Scientist&nbsp;Planetary Science Institute #"Your biography for the left-hand sidebar"
-  location         : "Gainesville, FL"
-  employer         :
+  bio              : Research Scientist #"Your biography for the left-hand sidebar"
+  location         : "Virginia, USA"
+  employer         : "Planetary Science Institute"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rdqaPG0AAAAJ&hl=en&authuser=2"
   email            : "amorgan@psi.edu"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "geologyonmars"
+  twitter          :
   vine             :
   weibo            :
   xing             :
