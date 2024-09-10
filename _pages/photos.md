@@ -4,6 +4,8 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: banner_atacama1.png
   actions:
 ---
@@ -11,7 +13,7 @@ header:
 {% include base_path %}
 
 I'm fortunate in that my work lets me travel all over the globe, and. I like to take pictures of cool landscapes that I encounter.
-banner should be gone now
+banner should be gone now 2
 
 <html>
 <head>
