@@ -6,13 +6,15 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: banner_atacama1.png
+  image: images/banner_atacama1.png
   actions:
 excerpt:
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+banner image
 
 I am a planetary geomorphologist with a focus on how fluvial processes shape the landscapes of Earth, Mars, and Titan. My research primarily explores how Mars' surface evolved as its climate shifted from a wetter past to the cold, arid conditions we see today. While Earth's early geologic record has been largely obscured by tectonics, erosion, and volcanism, Mars preserves much of its ancient surface, offering a unique opportunity to study early planetary environments and draw parallels to early Earth conditions. Mars’ fluvially altered landscapes also serve as a natural laboratory for testing landscape evolution models developed on Earth, underscoring the connections between planetary and terrestrial geology.
 
