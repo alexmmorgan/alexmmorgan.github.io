@@ -4,11 +4,7 @@ title: ""
 excerpt: "About"
 author_profile: true
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   image: /images/banner_atacama1.png
-  actions:
-excerpt:
 redirect_from: 
   - /about/
   - /about.html
