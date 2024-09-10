@@ -14,6 +14,7 @@ header:
 
 I'm fortunate in that my work lets me travel all over the globe, and. I like to take pictures of cool landscapes that I encounter.
 banner should be there now
+small test
 
 <html>
 <head>
@@ -40,8 +41,8 @@ div.gallery img {
 <body>
 
 <div class="gallery">
-  <a target="_blank" href="https://alexmmorgan.github.io//images/asia-10.jpg">
-    <img src="https://alexmmorgan.github.io//images/asia-10.jpg" alt="Angkor, Cambodia" width="600" height="400">
+  <a target="_blank" href="https://alexmmorgan.github.io//images/asia-10_Small.jpg">
+    <img src="https://alexmmorgan.github.io//images/asia-10.jpg" alt="Angkor, Cambodia" width="400" height="333">
   </a>
 </div>
 
