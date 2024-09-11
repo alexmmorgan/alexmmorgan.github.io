@@ -1,16 +1,15 @@
 ---
 title: "Linking alluvial fan morphology and sedimentology with formation processes via martian analog studies in the AtacamaDesert, Chile"
+excerpt: "<img src='/images/500x300.png'>"
 collection: research_current
+role: "PI"
+team: "Marisa Palucis (Dartmouth College), Becky Williams (PSI), Robert Craddock (Smithsonian)"
+funding: "NASA SSW"
 type: "Research"
-permalink: /research/2021-10-30-AtacamaFans
-#venue: "Location 3"
-date: 2020-09-01
-#location: "Place 3"
+permalink: /research_current/2021-10-30-AtacamaFans
+date: 2021-10-30
 ---
 
-Funded by NASA SSW
-
-Team: Alex Morgan (PI), Marisa Palucis (Dartmouth), Becky Williams (PSI), Robert Craddock (Smithsonian)
 
 The effects of water on a paleo-landscape are the most unambiguous markers of past climate and have provided a strong motivation to explore the geologic history of Mars to assess its past and present potential habitability. Large alluvial fans are among the most prominent sedimentary landforms found on Mars, but remain enigmatic despite over a decade of study. Martian alluvial fans exhibit numerous surface features indicative of fluvial transport but formed over a prolonged period during an era paradigm has held to be characterized by a cold and dry climate. Part of the difficulty in deciphering the climate present during the era of fan formation are the uncertainties in linking remote sensing-based observations with process models. To bridge this gap, we are conducting a field campaign to a suite of Mars analogue alluvial fans in northern Chile that exhibit numerous morphometric and morphologic similarities to those on Mars.
 
