@@ -35,9 +35,11 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'research_current' or page.collection == 'research_past' %}
-          <p class="page__role"><strong> {{ "Role:" }}</strong> {{ page.role }}</p>
-          <p class="page__team"><strong> {{ "Team:" }}</strong> {{ page.team }}</p>
-          <p class="page__funder"><strong> {{ "Funding:" }}</strong> {{ page.funding }}</p>
+          <p class="page__details">
+            <strong> {{ "Role:" }}</strong> {{ page.role }}
+            <strong> {{ "Team:" }}</strong> {{ page.team }}
+            <strong> {{ "Funding:" }}</strong> {{ page.funding }}
+          </p>
         {% endif %}
 
         {% if page.collection == 'teaching' %}
