@@ -258,7 +258,7 @@ defaults:
       path: ""
       type: research_current
     values:
-      layout: research_current
+      layout: single
       author_profile: true
       share: true
   # _research_past
@@ -266,7 +266,7 @@ defaults:
       path: ""
       type: research_past
     values:
-      layout: research_past
+      layout: single
       author_profile: true
       share: true
 
