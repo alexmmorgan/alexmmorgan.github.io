@@ -4,7 +4,7 @@ excerpt: "Linear dunes<br/><img src='/images/500x300.png'>"
 collection: research_current
 #title: "Reconstructing basaltic sediment transport on Mars using terrestrial analogues"
 role: "Co-I"
-team: [Robert Craddock](https://airandspace.si.edu/people/staff/bob-craddock) (PI; Smithsonian), Corbin Kling (Planet Labs), Adam Milewski (University of Georgia), Stephen Tooth (Aberystwyth University)
+team: <a href="https://airandspace.si.edu/people/staff/bob-craddock" target="_blank" rel="noopener noreferrer">Robert Craddock</a> (PI; Smithsonian), Corbin Kling (Planet Labs), Adam Milewski (University of Georgia), Stephen Tooth (Aberystwyth University)
 funding: "Smithsonian Institution"
 type: "Research"
 permalink: /research_current/2017-04-01-AustraliaDunes
