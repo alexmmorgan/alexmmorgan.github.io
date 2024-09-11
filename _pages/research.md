@@ -54,7 +54,12 @@ Earth
 * Northern Canada
   * Manuscript in preparation, see [Palucis et al. (2021) LPSC](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1918.pdf)
 
-
+Ongoing projects:
 {% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Past projects:
+{% for post in site.research_past reversed %}
   {% include archive-single.html %}
 {% endfor %}
