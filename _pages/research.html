@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+header:
+  overlay_image: https://alexmmorgan.github.io//images/banner_saheki_hirise.jpg
+---
+
+{% include base_path %}
+
+Ongoing projects:
+{% for post in site.research_current reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Past projects:
+{% for post in site.research_past reversed %}
+  {% include archive-single.html %}
+{% endfor %}
