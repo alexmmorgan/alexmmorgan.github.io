@@ -1,6 +1,9 @@
 ---
 title: "Reconstructing basaltic sediment transport on Mars using terrestrial analogues"
-collection: research_current
+excerpt: "Short of basalt project<br/><img src='/images/500x300.png'>"
+collection: portfolio
+#title: "Reconstructing basaltic sediment transport on Mars using terrestrial analogues"
+#collection: research_current
 type: "Research"
 permalink: /research/2017-04-01-AustraliaDunes
 #venue: "Location 3"

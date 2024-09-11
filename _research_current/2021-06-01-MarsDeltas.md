@@ -1,10 +1,13 @@
 ---
 title: "Do delta deposits around the martian crustal dichotomy record an ancient northern ocean?"
+excerpt: "Short of mars delta project<br/><img src='/images/500x300.png'>"
 collection: research_current
-type: "Research"
-permalink: /research/2021-06-01-MarsDeltas
+#title: "Do delta deposits around the martian crustal dichotomy record an ancient northern ocean?"
+#collection: research_current
+#type: "Research"
+#permalink: /research/2021-06-01-MarsDeltas
 #venue: "Location 3"
-date: 2021-06-01
+#date: 2021-06-01
 #location: "Place 3"
 ---
 
