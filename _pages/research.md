@@ -55,7 +55,7 @@ Earth
   * Manuscript in preparation, see [Palucis et al. (2021) LPSC](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1918.pdf)
 
 Ongoing projects:
-{% for post in site.research reversed %}
+{% for post in site.research_current reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
