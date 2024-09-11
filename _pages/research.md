@@ -53,3 +53,8 @@ Earth
   * Work in progress, see [Kling et al. (2019) LPSC](https://www.hou.usra.edu/meetings/lpsc2019/pdf/2920.pdf)
 * Northern Canada
   * Manuscript in preparation, see [Palucis et al. (2021) LPSC](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1918.pdf)
+
+
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
