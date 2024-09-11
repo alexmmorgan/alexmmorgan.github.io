@@ -5,7 +5,7 @@ collection: portfolio
 #title: "Reconstructing basaltic sediment transport on Mars using terrestrial analogues"
 #collection: research_current
 type: "Research"
-permalink: /research/2017-04-01-AustraliaDunes
+permalink: /research_current/2017-04-01-AustraliaDunes
 #venue: "Location 3"
 date: 2017-04-01
 #location: "Place 3"
