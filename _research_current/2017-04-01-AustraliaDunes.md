@@ -3,8 +3,9 @@ title: "Testing Models of Linear Dune Formation"
 excerpt: "Linear dunes<br/><img src='/images/500x300.png'>"
 collection: research_current
 #title: "Reconstructing basaltic sediment transport on Mars using terrestrial analogues"
-funder: "Smithsonian"
-team: Robert Craddock (PI; Smithsonian), Alex Morgan, Corbin Kling (Planet Labs), Adam Milewski (Univ. Georgia), Stephen Tooth (Aberystwyth Univ.)
+role: "Co-I"
+team: [Robert Craddock](https://airandspace.si.edu/people/staff/bob-craddock) (PI; Smithsonian), Corbin Kling (Planet Labs), Adam Milewski (University of Georgia), Stephen Tooth (Aberystwyth University)
+funding: "Smithsonian Institution"
 type: "Research"
 permalink: /research_current/2017-04-01-AustraliaDunes
 #venue: "Location 3"
