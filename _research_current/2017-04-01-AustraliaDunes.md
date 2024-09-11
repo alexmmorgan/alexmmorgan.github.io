@@ -3,7 +3,8 @@ title: "Testing Models of Linear Dune Formation"
 excerpt: "Linear dunes<br/><img src='/images/500x300.png'>"
 collection: research_current
 #title: "Reconstructing basaltic sediment transport on Mars using terrestrial analogues"
-#collection: research_current
+funder: "Smithsonian"
+team: Robert Craddock (PI; Smithsonian), Alex Morgan, Corbin Kling (Planet Labs), Adam Milewski (Univ. Georgia), Stephen Tooth (Aberystwyth Univ.)
 type: "Research"
 permalink: /research_current/2017-04-01-AustraliaDunes
 #venue: "Location 3"
@@ -18,4 +19,4 @@ Preliminary results show that linear dunes grow primarily through vertical accum
 
 Funded by Smithsonian
 
-Team: Robert Craddock (PI; Smithsonian), Alex Morgan, Corbin Kling (Planet Labs), Adam Milewski (Univ. Georgia), Stephen Tooth (Aberystwyth Univ.)
+Team: 
