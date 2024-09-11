@@ -253,6 +253,22 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _research_current
+  - scope:
+      path: ""
+      type: research_current
+    values:
+      layout: research_current
+      author_profile: true
+      share: true
+  # _research_past
+  - scope:
+      path: ""
+      type: research_past
+    values:
+      layout: research_past
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:

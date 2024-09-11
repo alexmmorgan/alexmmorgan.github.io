@@ -18,7 +18,8 @@ redirect_from:
   * _posts/
   * _teaching/
   * _talks/
-  * _research/
+  * _research_current/
+  * _research_past/
   * _travel/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
