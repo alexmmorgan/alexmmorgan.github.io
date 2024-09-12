@@ -13,3 +13,5 @@ date: 2024-08-16
 <img src='/images/for_pages/research/FanMineralogy.jpg'>
 
 Fan-shaped deposits like alluvial fans and deltas on Mars hold evidence of past water activity, extending into the early Amazonian period. However, the origin, volume, and timing of the water responsible for these deposits remain unclear. Analyzing the relationship between the composition of these fans and their surrounding basins can help clarify the duration and chemistry of water activity on Mars. Although this approach has been applied to select fan systems, it has yet to be done globally. This study aims to explore how the composition of fan systems varies with age, location, elevation, and environment to enhance our understanding of Mars' climate history and sediment alteration.
+
+[Haber et al. (2024) LPSC](https://www.hou.usra.edu/meetings/tenthmars2024/pdf/3366.pdf)
