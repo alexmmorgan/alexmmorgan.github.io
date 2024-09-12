@@ -1,5 +1,5 @@
 ---
-title: "Maximum constraints on the era of martian valley network formation"
+title: "Maximum formation timescales martian valley networks"
 excerpt: "<img src='/images/for_pages/research/VNTimescales_Small.jpg'>"
 collection: research_past
 role: "PI"

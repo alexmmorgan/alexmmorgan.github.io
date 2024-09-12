@@ -1,5 +1,5 @@
 ---
-title: "Linking alluvial fan morphology and sedimentology with formation processes via martian analog studies in the AtacamaDesert, Chile"
+title: "Large alluvial fans in the Chilean Atacama Desert"
 excerpt: "<img src='/images/for_pages/research/AtacamaFans_Small.jpg'>"
 collection: research_current
 role: "PI"
