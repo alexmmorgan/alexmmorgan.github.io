@@ -1,6 +1,6 @@
 ---
 title: "Century scale rainfall in the absolute Atacama Desert: Landscape response and implications for past and future rainfall"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/for_pages/research/AtacamaFlood_Small.jpg'>"
 collection: research_past
 role: "Collaborator"
 team: "Marco Pfeiffer (Universidad de Chile), Arjun Heimsath (Arizona State University), Teresa Jordan (Cornell University), Alan Howard (University of Virginia), Ronald Amundson (UC Berkeley)"
@@ -10,6 +10,7 @@ permalink: /research_past/2021-01-25-AtacamaFlood
 date: 2021-01-25
 ---
 
+<img src='/images/for_pages/research/AtacamaFlood.JPG'>
 
 We examined the effects of rare rainfall events on the landscape in the hyperarid Atacama Desert, one of the driest places on Earth. We investigated how rainfall during a storm in March 2015 interacted with the unique soil properties of the region, including high infiltration rates and salt-rich soils, to assess how much of the landscape was affected.
 
@@ -20,3 +21,4 @@ We used soil analyses, field observations, and measurements of water infiltratio
 We also explored the broader implications of climate change, predicting that future increases in rainfall may trigger more frequent and intense geomorphic processes in the region. However, because the desert is so dry and its soils so resistant, the threshold for significant landscape alteration remains high. The findings offer insight into how desert environments respond to rare rainfall events, both in the past and potentially in the future.
 
 
+[Pfeiffer et al. (2021) Quaternary Science Reviews](https://doi.org/10.1016/j.quascirev.2021.106797)

@@ -1,6 +1,6 @@
 ---
 title: "Global mapping of martian valley networks"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/for_pages/research/VN_mapping_Small.jpg'>"
 collection: research_current
 role: "PI"
 team: "Tim Goudge (UT Austin), Sharon Wilson (Smithsonian), Amanda Rudolph (Smithsonian)"
@@ -9,6 +9,8 @@ type: "Research"
 permalink: /research_current/2024-08-01-VN_mapping
 date: 2024-08-01
 ---
+
+<img src='/images/for_pages/research/VN_mapping.jpg'>
 
 Branching valley systems are compelling evidence for an early Mars that was, at least periodically, able to sustain liquid water on or near the surface. Global maps of valley network distribution underlie many studies that seek to explain Mars' climatic, tectonic, geochemical, and hydrologic evolution. Limitations in data coverage and resolution resulted in the omission of valleys and (or) erroneous mapping of non-fluvial features in these databases. This introduces significant uncertainty into the conclusions of past studies that are based on these datasets. Images from the Context Camera (CTX) on the Mars Reconnaissance Orbiter spacecraft offer increased resolution (6 m/pixel) and coverage (over 97% of the martian surface), sufficient for a basemap that substantially improves the ability to document the distribution of valleys on Mars.
 

@@ -1,6 +1,6 @@
 ---
 title: "Do delta deposits around the martian crustal dichotomy record an ancient northern ocean?"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<img src='/images/for_pages/research/MarsDeltas_Small.jpg'>"
 collection: research_current
 role: "Co-I"
 team: "Marisa Palucis (PI; Dartmouth College), Frances Rivera-Hernandez (Georgia Tech)"
@@ -10,6 +10,7 @@ permalink: /research_current/2021-06-01-MarsDeltas
 date: 2021-06-01
 ---
 
+<img src='/images/for_pages/research/MarsDeltas.JPG'>
 
 Unraveling Mars’ paleo-climate and potential for habitability requires a quantitative understanding of its past water abundance and sources, including whether or not Mars once hosted an ocean in the northern lowlands. Ocean levels constructed from delta-like deposits and valley networks along the martian crustal dichotomy are broadly consistent with previously mapped paleo-shorelines and have been cited as evidence for such an ocean at ~3.5 Ga. But recent work investigating the spatial and topographic distribution of crustal dichotomy delta deposits within the Nepenthes Mensae and Gale crater region found that these deposits instead formed in smaller paleo-lake basins, possibly coeval with lakes within Gale crater. It is not clear if other previously mapped deltas along the crustal dichotomy also record deposition into smaller paleo-lake basins, which has major implications for quantifying past water reservoirs on Mars and testing the northern ocean hypothesis. 
 
