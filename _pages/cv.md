@@ -90,24 +90,24 @@ Please email me if you would like a PDF version of any of these papers.
 
 <strong>Journal Publications</strong>
 
-* A.G. Galofre, A.D. Howard, A.M. Morgan, S.A. Wilson, J.M. Moore (2024). Glacial sculpting of a martian cratered landscape on the northeastern flank of the Hellas basin. Icarus 420. DOI:10.1016/j.icarus.2024.116211
-* K.A. Pearson, E.Z Noe Dobrea, D. Zhao, A. Altinok, A.M. Morgan (2024). Mapping Brain Terrain Regions on Mars Using Deep Learning. The Planetary Science Journal 5(7). DOI:10.3847/PSJ/ad5673
-* T.A. Goudge, A.M. Morgan, G. Stucky de Quay, C.I. Fassett (2024). Spatial patterns of valley network erosion on early Mars. Icarus 421. DOI:10.1016/j.icarus.2024.116224
-* A.M. Morgan (2024). New maximum constraints on the era of martian valley network formation. Earth and Planetary Science Letters 626. DOI:10.1016/j.epsl.2023.118509
-* M.C. Palucis, A.M. Morgan, J.V. Strauss, F. Rivera-Hernandez, J.A. Marshall, E. Menio, R. Miller (2023). Rates and processes controlling periglacial alluvial fan formation: Implications for martian fans. GSA Bulletin. 135(3-4) DOI:10.1130/B36459.1
-* A.M. Morgan, S.A Wilson, A.D Howard (2022). Geospatial data from a global survey of martian fan-shaped sedimentary landforms. Data in Brief 44. DOI:10.1016/j.dib.2022.108494
-* A.M. Morgan, S.A Wilson, A.D Howard (2022). The global distribution and morphologic characteristics of fan-shaped sedimentary landforms on Mars. Icarus 385. DOI:10.1016/j.icarus.2022.115137
-* E.S. Kite, M.A. Mischna, B. Fan, A.M. Morgan, S.A. Wilson, M.I. Richardson (2022). Changing spatial distribution of water flow charts major change in Mars’s greenhouse effect. Science Advances 8(21). DOI: 10.1126/sciadv.abo5894
-* S.J. Holo, S.J., E.S. Kite, S.A. Wilson, A.M. Morgan (2021). The timing of alluvial fan formation on Mars. Planetary Science Journal 2(5). DOI:10.3847/PSJ/ac25ed
-* T.A. Goudge†, A.M. Morgan†, G.S. de Quay, C.I. Fassett (2021). The importance of lake breach floods for valley incision on early Mars. Nature 597. DOI:10.1038/s41586-021-038601
-* A.D. Howard, Wilson, A.M. Morgan, J.M. Moore, O.L. White (2021). Light-toned deposit in the northeastern Hellas basin formed by terrain-conforming airfall sedimentation. Icarus 360. DOI:10.1016/j.icarus.2021.114356
-* S.A. Wilson, A.M. Morgan, A.D. Howard, J.A. Grant (2021). The global distribution of craters with alluvial fans and deltas on Mars. Geophysical Research Letters 48(4). DOI:10.1029/2020GL091653
-* M.P. Pfeiffer, A.M. Morgan, A. Heimsath, T. Jordan, A. D. Howard, R. Amundson (2021). A century scale rainfall in the absolute Atacama Desert: landscape response and implications for past and future rainfall magnitudes. Quaternary Science Reviews 254. DOI:10.1016/j.quascirev.2021.106797
-* A.M. Morgan, R.A. Craddock (2019). Assessing the accuracy of paleodischarge estimates for rivers on Mars. Geophysical Research Letters 46(21). DOI:10.1029/2019GL084921
-* A.M. Morgan, R.A. Craddock (2017). Depositional processes of alluvial fans along the Hilina Pali fault scarp, Island of Hawaii. Geomorphology 296. DOI:10.1016/j.geomorph.2017.08.028
-* J.M. Moore, A.D. Howard, A.M. Morgan (2014). The Landscape of Titan as Witness to its Climate Evolution. Journal of Geophysical Research-Planets 119. DOI:10.1002/2014JE004608
-* A.M. Morgan, A.D. Howard, D.E.J. Hobley, J.M. Moore, W.E. Dietrich, R.M.E. Williams, D.M. Burr, J.A. Grant, S.A. Wilson, Y. Matsubara (2014). Sedimentology and climatic environment of alluvial fans in the martian Saheki crater and a comparison with terrestrial fans in the Atacama Desert. Icarus 229. DOI:10.1016/j.icarus.2013.11.007
-* D. Durda, N. Movshovitz, D. Richardson, E. Asphaug, A. Morgan, A.R. Rawlings, C. Vest (2009). Experimental determination of the coefficient of restitution for meter scale granite spheres. Icarus 211. DOI:10.1016/j.icarus.2010.09.003 
+* A.G. Galofre, A.D. Howard, A.M. Morgan, S.A. Wilson, J.M. Moore (2024). Glacial sculpting of a martian cratered landscape on the northeastern flank of the Hellas basin. Icarus 420. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.icarus.2024.116211>DOI:10.1016/j.icarus.2024.116211</a>
+* K.A. Pearson, E.Z Noe Dobrea, D. Zhao, A. Altinok, A.M. Morgan (2024). Mapping Brain Terrain Regions on Mars Using Deep Learning. The Planetary Science Journal 5(7). <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.3847/PSJ/ad5673>DOI:10.3847/PSJ/ad5673</a>
+* T.A. Goudge, A.M. Morgan, G. Stucky de Quay, C.I. Fassett (2024). Spatial patterns of valley network erosion on early Mars. Icarus 421. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.icarus.2024.116224>DOI:10.1016/j.icarus.2024.116224</a>
+* A.M. Morgan (2024). New maximum constraints on the era of martian valley network formation. Earth and Planetary Science Letters 626. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.epsl.2023.118509>DOI:10.1016/j.epsl.2023.118509</a>
+* M.C. Palucis, A.M. Morgan, J.V. Strauss, F. Rivera-Hernandez, J.A. Marshall, E. Menio, R. Miller (2023). Rates and processes controlling periglacial alluvial fan formation: Implications for martian fans. GSA Bulletin. 135(3-4). <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1130/B36459.1>DOI:10.1130/B36459.1</a>
+* A.M. Morgan, S.A Wilson, A.D Howard (2022). Geospatial data from a global survey of martian fan-shaped sedimentary landforms. Data in Brief 44. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.dib.2022.108494>DOI:10.1016/j.dib.2022.108494</a>
+* A.M. Morgan, S.A Wilson, A.D Howard (2022). The global distribution and morphologic characteristics of fan-shaped sedimentary landforms on Mars. Icarus 385. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.icarus.2022.115137>DOI:10.1016/j.icarus.2022.115137</a>
+* E.S. Kite, M.A. Mischna, B. Fan, A.M. Morgan, S.A. Wilson, M.I. Richardson (2022). Changing spatial distribution of water flow charts major change in Mars’s greenhouse effect. Science Advances 8(21). <a target="_blank" rel="noopener noreferrer" href="http://doi.org/ 10.1126/sciadv.abo5894>DOI: 10.1126/sciadv.abo5894</a>
+* S.J. Holo, S.J., E.S. Kite, S.A. Wilson, A.M. Morgan (2021). The timing of alluvial fan formation on Mars. Planetary Science Journal 2(5). <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.3847/PSJ/ac25ed>DOI:10.3847/PSJ/ac25ed</a>
+* T.A. Goudge†, A.M. Morgan†, G.S. de Quay, C.I. Fassett (2021). The importance of lake breach floods for valley incision on early Mars. Nature 597. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1038/s41586-021-038601>DOI:10.1038/s41586-021-038601</a>
+* A.D. Howard, Wilson, A.M. Morgan, J.M. Moore, O.L. White (2021). Light-toned deposit in the northeastern Hellas basin formed by terrain-conforming airfall sedimentation. Icarus 360. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.icarus.2021.114356>DOI:10.1016/j.icarus.2021.114356</a>
+* S.A. Wilson, A.M. Morgan, A.D. Howard, J.A. Grant (2021). The global distribution of craters with alluvial fans and deltas on Mars. Geophysical Research Letters 48(4). <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1029/2020GL091653>DOI:10.1029/2020GL091653</a>
+* M.P. Pfeiffer, A.M. Morgan, A. Heimsath, T. Jordan, A. D. Howard, R. Amundson (2021). A century scale rainfall in the absolute Atacama Desert: landscape response and implications for past and future rainfall magnitudes. Quaternary Science Reviews 254. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.quascirev.2021.106797>DOI:10.1016/j.quascirev.2021.106797</a>
+* A.M. Morgan, R.A. Craddock (2019). Assessing the accuracy of paleodischarge estimates for rivers on Mars. Geophysical Research Letters 46(21). <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1029/2019GL084921>DOI:10.1029/2019GL084921</a>
+* A.M. Morgan, R.A. Craddock (2017). Depositional processes of alluvial fans along the Hilina Pali fault scarp, Island of Hawaii. Geomorphology 296. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.geomorph.2017.08.028>DOI:10.1016/j.geomorph.2017.08.028</a>
+* J.M. Moore, A.D. Howard, A.M. Morgan (2014). The Landscape of Titan as Witness to its Climate Evolution. Journal of Geophysical Research-Planets 119. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1002/2014JE004608>DOI:10.1002/2014JE004608</a>
+* A.M. Morgan, A.D. Howard, D.E.J. Hobley, J.M. Moore, W.E. Dietrich, R.M.E. Williams, D.M. Burr, J.A. Grant, S.A. Wilson, Y. Matsubara (2014). Sedimentology and climatic environment of alluvial fans in the martian Saheki crater and a comparison with terrestrial fans in the Atacama Desert. Icarus 229. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.icarus.2013.11.007>DOI:10.1016/j.icarus.2013.11.007</a>
+* D. Durda, N. Movshovitz, D. Richardson, E. Asphaug, A. Morgan, A.R. Rawlings, C. Vest (2009). Experimental determination of the coefficient of restitution for meter scale granite spheres. Icarus 211. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.icarus.2010.09.003>DOI:10.1016/j.icarus.2010.09.003</a>
 
 <strong>Books and book chapters</strong>
 
@@ -140,13 +140,15 @@ Teaching Experience
 
 Professional Service and Outreach
 ======
-* 2021 – Present	Editor, Planetary Exploration Newsletter (PEN)
+2021 – Present	Editor, Planetary Exploration Newsletter (PEN)
 
 <strong>Peer review</strong>
-Earth and Planetary Science Letters, Earth Surface Dynamics, Geomorphology, Geophysical Research Letters, Earth and Planetary Science Letters, Geosciences, Icarus, Journal of Geophysical Research: Planets, and Nature Communications, Remote Sensing
+* Earth and Planetary Science Letters, Earth Surface Dynamics, Geomorphology, Geophysical Research Letters, Earth and Planetary Science Letters, Geosciences, Icarus, Journal of Geophysical Research: Planets, and Nature Communications, Remote Sensing
 
 <strong>Grant review</strong>
+<br>
 Not all panels are listed due to confidentiality concerns
+<br>
 NASA
 * Group Chief: Future Investigators in NASA Earth and Space Science and Technology (FINESST) 
 * Executive Secretary: Lunar Data Analysis Program (LDAP)
