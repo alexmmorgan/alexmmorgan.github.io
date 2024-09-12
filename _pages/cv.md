@@ -4,10 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: banner_atacama1.png
-  actions:
+  overlay_image: https://alexmmorgan.github.io//images/banners/banner_iceland1.jpg
 redirect_from:
   - /resume
 ---

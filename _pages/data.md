@@ -4,7 +4,7 @@ title: "Data"
 permalink: /data/
 author_profile: true
 header:
-  overlay_image: https://alexmmorgan.github.io//images/banner_atacama2.jpg
+  overlay_image: https://alexmmorgan.github.io//images/banners/banner_atacama2.jpg
 ---
 
 
