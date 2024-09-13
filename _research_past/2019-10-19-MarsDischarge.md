@@ -1,5 +1,5 @@
 ---
-title: "Assessing the Accuracy of Paleodischarge Estimates for Rivers on Mars"
+title: "Assessing the accuracy of paleodischarge estimates for martian rivers"
 excerpt: "<img src='/images/for_pages/research/MarsDischarge_Small.jpg'>"
 collection: research_past
 role: "Post-Doc"

@@ -1,5 +1,5 @@
 ---
-title: "Century scale rainfall in the absolute Atacama Desert: Landscape response and implications for past and future rainfall"
+title: "Landscape response to a century scale rainfall in the absolute Atacama Desert"
 excerpt: "<img src='/images/for_pages/research/AtacamaFlood_Small.jpg'>"
 collection: research_past
 role: "Collaborator"

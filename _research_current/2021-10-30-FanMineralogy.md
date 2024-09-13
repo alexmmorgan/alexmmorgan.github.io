@@ -1,5 +1,5 @@
 ---
-title: "Composition of Martian Fans, Basin Deposits, and Watersheds Using VNIR Spectroscopy"
+title: "Composition of martian Fans, basin deposits, and watersheds using VNIR spectroscopy"
 excerpt: "<img src='/images/for_pages/research/FanMineralogy_Small.jpg'>"
 collection: research_current
 role: "Co-I"

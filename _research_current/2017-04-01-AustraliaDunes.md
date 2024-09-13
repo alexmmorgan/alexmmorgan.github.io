@@ -1,5 +1,5 @@
 ---
-title: "Testing Models of Linear Dune Formation"
+title: "Testing models of linear dune formation"
 excerpt: "<img src='/images/for_pages/research/AustraliaDunes_Small.jpg'>"
 collection: research_current
 role: "Co-I"

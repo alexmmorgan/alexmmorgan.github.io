@@ -1,5 +1,5 @@
 ---
-title: "Global database of fan landforms on Mars"
+title: "Global database of alluvial fans and putative deltas on Mars"
 excerpt: "<img src='/images/for_pages/research/MarsGlobalFans_Small.jpg'>"
 collection: research_past
 role: "PhD candidate (dissertation chapter)"
