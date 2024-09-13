@@ -4,7 +4,7 @@ excerpt: "<img src='/images/for_pages/research/AtacamaFans_Small.jpg'>"
 collection: research_current
 role: "PI"
 team: "Marisa Palucis (Dartmouth College), Becky Williams (PSI), Robert Craddock (Smithsonian)"
-funding: "NASA SSW"
+funding: "NASA Solar System Workings Program"
 type: "Research"
 permalink: /research_current/2021-10-30-AtacamaFans
 date: 2021-10-30

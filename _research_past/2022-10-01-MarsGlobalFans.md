@@ -4,7 +4,7 @@ excerpt: "<img src='/images/for_pages/research/MarsGlobalFans_Small.jpg'>"
 collection: research_past
 role: "PhD candidate (dissertation chapter)"
 team: "Sharon Wilson (Smithsonian), Alan Howard (University of Virginia)"
-funding: "Smithsonian post-doctoral program, NASA MDAP, NASA SSW"
+funding: "Smithsonian Institution Fellowship Program (Post-Doctoral Fellowship); NASA Mars Data Analysis Program; NASA Solar System Workings Program"
 type: "Research"
 permalink: /research_past/2022-10-01-MarsGlobalFans
 date: 2022-10-01

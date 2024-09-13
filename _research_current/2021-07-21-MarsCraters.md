@@ -4,7 +4,7 @@ excerpt: "<img src='/images/for_pages/research/MarsCraters_Small.jpg'>"
 collection: research_current
 role: "Co-I"
 team: "Ross Irwin (PI; Smithsonian)"
-funding: "NASA SSW"
+funding: "NASA Mars Data Analysis Program"
 type: "Research"
 permalink: /research_current/2021-07-21-MarsCraters
 date: 2021-07-21

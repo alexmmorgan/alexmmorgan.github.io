@@ -4,7 +4,7 @@ excerpt: "<img src='/images/for_pages/research/VNTimescales_Small.jpg'>"
 collection: research_past
 role: "PI"
 team: 
-funding: "NASA SSW"
+funding: "NASA Mars Data Analysis Program; NASA Solar System Workings Program"
 type: "Research"
 permalink: /research_past/2023-12-09-VNTimescales
 date: 2023-12-09

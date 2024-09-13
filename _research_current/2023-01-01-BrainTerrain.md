@@ -4,7 +4,7 @@ excerpt: "<img src='/images/for_pages/research/BrainTerrain_Small.jpg'>"
 collection: research_current
 role: "Collaborator"
 team: "Eldar Noe Dobrea (PI; PSI), Alphan Altinok (JPL), Kyle Pearson (JPL), Stephen Wood (PSI)"
-funding: "Smithsonian Institution"
+funding: "NASA Mars Data Analysis Program"
 type: "Research"
 permalink: /research_current/2023-01-01-BrainTerrain
 date: 2023-01-01

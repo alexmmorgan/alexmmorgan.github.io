@@ -4,7 +4,7 @@ excerpt: "<img src='/images/for_pages/research/FanMineralogy_Small.jpg'>"
 collection: research_current
 role: "Co-I"
 team: "James Haber (PI, Smithsonian), Sharon Wilson (Smithsonian), Rossman Irwin (Smithsonian), Briony Horgan (Perdue)"
-funding: "NASA MDAP"
+funding: "NASA Mars Data Analysis Program"
 type: "Research"
 permalink: /research_current/2024-08-16-FanMineralogy
 date: 2024-08-16

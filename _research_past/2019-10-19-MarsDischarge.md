@@ -4,7 +4,7 @@ excerpt: "<img src='/images/for_pages/research/MarsDischarge_Small.jpg'>"
 collection: research_past
 role: "Post-Doc"
 team: "Bob Craddock (Smithsonian)"
-funding: "Smithsonian post-doctoral program"
+funding: "Smithsonian Institution Fellowship Program (Post-Doctoral Fellowship)"
 type: "Research"
 permalink: /research_past/2019-10-19-MarsDischarge
 date: 2019-10-19

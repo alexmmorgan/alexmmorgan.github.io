@@ -4,7 +4,7 @@ excerpt: "<img src='/images/for_pages/research/HawaiiFans_Small.jpg'>"
 collection: research_past
 role: "PhD student (dissertation chapter)"
 team: "Bob Craddock (Smithsonian)"
-funding: "Smithsonian Pre-Doctoral Fellowship"
+funding: "Smithsonian Institution Fellowship Program (Pre-Doctoral Fellowship)"
 type: "Research"
 permalink: /research_past/2017-09-19-HawaiiFans
 date: 2017-09-19
