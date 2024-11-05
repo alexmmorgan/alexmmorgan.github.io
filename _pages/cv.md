@@ -90,6 +90,7 @@ Please email me if you would like a PDF version of any of these papers.
 
 <strong>Journal Publications</strong>
 
+* R. Rotz, A.M. Milewski, R.A. Craddock, A.M. Morgan, D.S. Leigh (2024). Fluvial-Lacustrine Influences on Linear Dune Erosion at Lake Caroline in the Simpson Desert of Australia. Geomorphology 466. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.geomorph.2024.109438">DOI:10.1016/j.geomorph.2024.109438</a>
 * A.G. Galofre, A.D. Howard, A.M. Morgan, S.A. Wilson, J.M. Moore (2024). Glacial sculpting of a martian cratered landscape on the northeastern flank of the Hellas basin. Icarus 420. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.icarus.2024.116211">DOI:10.1016/j.icarus.2024.116211</a>
 * K.A. Pearson, E.Z Noe Dobrea, D. Zhao, A. Altinok, A.M. Morgan (2024). Mapping Brain Terrain Regions on Mars Using Deep Learning. The Planetary Science Journal 5(7). <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.3847/PSJ/ad5673">DOI:10.3847/PSJ/ad5673</a>
 * T.A. Goudge, A.M. Morgan, G. Stucky de Quay, C.I. Fassett (2024). Spatial patterns of valley network erosion on early Mars. Icarus 421. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.icarus.2024.116224">DOI:10.1016/j.icarus.2024.116224</a>
