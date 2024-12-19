@@ -14,6 +14,6 @@ I am a planetary geomorphologist with a focus on how fluvial processes shape the
 
 I use Geographic Information Systems (GIS) to analyze image and topographic data, complemented by numerical modeling. Additionally, I conduct fieldwork in locations that serve as geological or climatic analogues to the martian environment.
 
-I am based in beautiful eastern Virginia. I am currently a staff scientist at the <a href="https://www.psi.edu" target="_blank" rel="noopener noreferrer">Planetary Science Institute (PSI)</a>, as well as a visiting research associate at the Smithsonian Institution. Previously I was at the National Air and Space Museum, the University of Virginia, NASA Ames Research Center, and the University of California Santa Cruz.
+I am based in eastern Virginia. I am currently a staff scientist at the <a href="https://www.psi.edu" target="_blank" rel="noopener noreferrer">Planetary Science Institute (PSI)</a>, as well as a visiting research associate at the Smithsonian Institution. Previously I was at the National Air and Space Museum, the University of Virginia, NASA Ames Research Center, and the University of California Santa Cruz.
 
 I encourage you to also check out my <a href="https://www.psi.edu/staff/profile/alexander-morgan/" target="_blank" rel="noopener noreferrer">PSI staff page</a>.
