@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a target="_blank" rel="noopener noreferrer" href="https://alexmmorgan.github.io//files/Morgan_CV_public_20240912.pdf">Download my CV here</a>
+<a target="_blank" rel="noopener noreferrer" href="https://alexmmorgan.github.io//files/Morgan_CV_public.pdf">Download my CV here</a>
 
 Also see my <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=rdqaPG0AAAAJ">Google Scholar profile</a> or <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0000-0003-2443-1676">ORCID</a> pages for publication lists that may be more up to date.
 
@@ -42,7 +42,9 @@ Awards and Honors
 
 Research Grants
 ======
-
+* 2025: Gully Incision on Earth and Mars: Using field observations and sediment transport modeling to constrain the recent martian hydrosphere
+  * NASA SSW Program
+  * Marisa Palucis (PI, Darmouth), A.M. Morgan (Co-I).
 * 2024: Creating a Mars valley database using CTX data
   * NASA PDART Program
   * A.M. Morgan (PI), T.A. Goudge (Co-I, UT Austin), S.A. Wilson (Co-I, Smithsonian), A. Rudolph (Co-I, Smithsonian).
@@ -57,10 +59,10 @@ Research Grants
   * A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.A. Craddock (Co-I, Smithsonian)
 * 2021: Timing and spatial variability of post-Noachian fluvial erosion on Mars
   * NASA Mars Data Analysis Program
-  * A.M. Morgan (Co-I), R.P. Irwin III (PI, Smithsonian)
+  * R.P. Irwin III (PI, Smithsonian), A.M. Morgan (Co-I)
 * 2021: Do delta deposits around the martian crustal dichotomy record an ancient northern ocean?
   * NASA Mars Data Analysis Program
-  * A.M. Morgan (Co-I), M.C. Palucis (PI, Dartmouth), Rivera-Hernandez (Co-I, Georgia Tech)
+  * M.C. Palucis (PI, Dartmouth), A.M. Morgan (Co-I), Rivera-Hernandez (Co-I, Georgia Tech)
 * 2020: Linking alluvial fan morphology and sedimentology with formation processes via Martian analog studies in the Atacama Desert, Chile
   * NASA Solar Systems Workings Program
   * A.M. Morgan (PI), M.C. Palucis (Co-I, Dartmouth), R.M.E. Williams (Co-I, PSI), R.A. Craddock (Co-I, Smithsonian)
@@ -90,6 +92,10 @@ Please email me if you would like a PDF version of any of these papers.
 
 <strong>Journal Publications</strong>
 
+* E.R. Rogers, A.M. Morgan, M.C. Palucis (2025). Using Clast Morphometry to Reconstruct Basaltic Sediment Transport History. Journal for Geophysical Research: Planets 130, e2025JE009154. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1029/2025JE009154">DOI:10.1029/2025JE009154</a>
+* *A.M. Morgan, K.A. Pearson, E.Z Noe Dobrea, A. Altinok (2025). Crater retention timescales of martian brain coral terrain record past climatic change. The Planetary Science Journal 6(200). <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.3847/PSJ/adf1aa">DOI:10.3847/PSJ/adf1aa</a>
+* *B.P. Graves, T.J. Ralph, A.M. Morgan (2025) Channel breakdown and avulsion in arroyos feeding the Little Colorado River, Arizona, USA. Geomorphology 468. DOI:
+<a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.geomorph.2024.109501">DOI:10.1016/j.geomorph.2024.109501</a>
 * R. Rotz, A.M. Milewski, R.A. Craddock, A.M. Morgan, D.S. Leigh (2024). Fluvial-Lacustrine Influences on Linear Dune Erosion at Lake Caroline in the Simpson Desert of Australia. Geomorphology 466. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.geomorph.2024.109438">DOI:10.1016/j.geomorph.2024.109438</a>
 * A.G. Galofre, A.D. Howard, A.M. Morgan, S.A. Wilson, J.M. Moore (2024). Glacial sculpting of a martian cratered landscape on the northeastern flank of the Hellas basin. Icarus 420. <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.1016/j.icarus.2024.116211">DOI:10.1016/j.icarus.2024.116211</a>
 * K.A. Pearson, E.Z Noe Dobrea, D. Zhao, A. Altinok, A.M. Morgan (2024). Mapping Brain Terrain Regions on Mars Using Deep Learning. The Planetary Science Journal 5(7). <a target="_blank" rel="noopener noreferrer" href="http://doi.org/10.3847/PSJ/ad5673">DOI:10.3847/PSJ/ad5673</a>
