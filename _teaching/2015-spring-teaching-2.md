@@ -1,10 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to GIS"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+permalink: /teaching/intro-to-GIS
+venue: "Center for Earth and Planetary Studies Summer Intern Program, National Air and Space Museum, Smithsonian Institution"
 location: "City, Country"
 ---
 
